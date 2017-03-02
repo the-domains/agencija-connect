@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-03-02T20:05:24.556Z'
-dateModified: '2017-03-02T20:05:19.531Z'
+datePublished: '2017-03-02T20:07:03.879Z'
+dateModified: '2017-03-02T20:07:01.486Z'
 via: {}
 description: >-
   Pretplatite se na naš Newsletter i unaprijedite vaše znanje o dizajnu, webu i
