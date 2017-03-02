@@ -69,3 +69,5 @@ purpose:
   - type: contact
     url: 'mailto:gordan@connect.ba'
     label: Contact me
+opengraph:
+  type: 'https://www.facebook.com/Connect.Agencija.za.trzisne.komunikacije/'
