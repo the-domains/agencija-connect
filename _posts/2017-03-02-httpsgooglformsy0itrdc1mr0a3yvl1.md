@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   Popunite naš kratki upitnik kako bi saznali vaše potrebe i najpribližnije vam
   odgovorili. 
-dateModified: '2017-03-02T14:36:55.669Z'
-datePublished: '2017-03-02T14:36:56.784Z'
+dateModified: '2017-03-02T14:38:31.085Z'
+datePublished: '2017-03-02T14:40:03.885Z'
 title: Želite li saznati cjene naših usluga?
 author: []
 publisher: {}
@@ -19,4 +19,4 @@ _type: Blurb
 ---
 # Želite li saznati cjene naših usluga?
 
-Popunite naš kratki upitnik kako bi saznali vaše potrebe i najpribližnije vam odgovorili.
+Popunite naš kratki upitnik kako bi saznali vaše potrebe i najpribližnije vam odgovorili. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a754eef2-8dcc-44dc-93be-6591458a2013.jpg)
