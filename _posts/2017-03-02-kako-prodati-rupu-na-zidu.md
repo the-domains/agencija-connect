@@ -1,19 +1,14 @@
 ---
-inFeed: true
-description: >-
-  Prije par mjeseci, jedan od klijenata mi je poslao jedan tekst koji je bio
-  oglasnog karaktera. Bio je to relativno kratak sadržaj, možda na jedan A4
-  format bi sve stalo, kako bih dao svoje nepristrano mišljenje. Pročitao sam
-  tekst i odgovorio mu kako je tekst odličan samo što je najviše i jedino o sebi
-  pričao. O svojoj firmi, o proizvodu, o nagradama…
-dateModified: '2017-03-02T15:20:16.348Z'
-datePublished: '2017-03-02T15:20:16.721Z'
-title: Kako prodati rupu na zidu?
-author: []
 publisher: {}
+datePublished: '2017-03-02T16:47:59.191Z'
+dateModified: '2017-03-02T16:47:57.294Z'
+description: ''
 via: {}
 sourcePath: _posts/2017-03-02-kako-prodati-rupu-na-zidu.md
+title: Kako prodati rupu na zidu?
 hasPage: true
+inFeed: true
+author: []
 starred: false
 datePublishedOriginal: '2017-03-02T13:14:00.479Z'
 url: kako-prodati-rupu-na-zidu/index.html
@@ -23,7 +18,7 @@ _type: Article
 # Kako prodati rupu na zidu?
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/002139ccb0173a41bec2a7437dba37f99eab9ca2.jpg)
 
-Prije par mjeseci, jedan od klijenata mi je poslao jedan tekst koji je bio oglasnog karaktera. Bio je to relativno kratak sadržaj, možda na jedan A4 format bi sve stalo, kako bih dao svoje nepristrano mišljenje. Pročitao sam tekst i odgovorio mu kako je tekst odličan samo što je najviše i jedino o sebi pričao. O svojoj firmi, o proizvodu, o nagradama...
+### Prije par mjeseci, jedan od klijenata mi je poslao jedan tekst koji je bio oglasnog karaktera. Bio je to relativno kratak sadržaj, možda na jedan A4 format bi sve stalo, kako bih dao svoje nepristrano mišljenje. Pročitao sam tekst i odgovorio mu kako je tekst odličan samo što je najviše i jedino o sebi pričao. O svojoj firmi, o proizvodu, o nagradama...
 
 ---
 
