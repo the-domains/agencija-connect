@@ -1,9 +1,10 @@
-typography_spectrum: 0.7319005543695265
+layout_spectrum: 0.2108489132817318
+typography_spectrum: 0.9332921466045082
 color:
-  brandStrength: 0.1518439765323396
-  lightness: 0.8349248006180998
-  saturation: 0.17709921576423884
-  rhythmicContrast: 0.741715845481428
+  brandStrength: 0.3129659063882646
+  lightness: 0.8891371711338917
+  saturation: 0.24853577919885295
+  rhythmicContrast: 0.846000962929044
   brandColors:
     - '#468966'
     - '#FFF0A5'
@@ -11,7 +12,6 @@ color:
     - '#B64926'
     - '#8E2800'
 github: true
-layout_spectrum: 0.702598861532083
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e298f4a-23fd-424d-85f3-ff25c48fa4c8.png
 name: Agencija Connect
@@ -195,7 +195,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
