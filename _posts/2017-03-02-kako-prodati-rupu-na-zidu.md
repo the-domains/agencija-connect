@@ -1,8 +1,8 @@
 ---
 publisher:
   name: CONNECT BLOG
-datePublished: '2017-03-02T17:34:39.143Z'
-dateModified: '2017-03-02T17:34:34.949Z'
+datePublished: '2017-03-02T17:37:08.976Z'
+dateModified: '2017-03-02T17:37:06.675Z'
 description: ''
 via: {}
 sourcePath: _posts/2017-03-02-kako-prodati-rupu-na-zidu.md
@@ -62,8 +62,8 @@ Jeli vam jedino cijena bitna ili nešto i od ovih stvari ulazi u konačnu odluku
 * širina i dubina asortimana
 * pregledan račun
 * beneficije članstva...
-[Zatražcjenik][0]
 
 Jeste li ovo sve zanemarili samo kako bi kupili najjeftiniji proizvod. Po logici niskih cijena ljudi bi trebali kupovati robu samo na pijaci. Stoga, razmislite o korisnosti za kupca koju nudi vaš proizvod. Ne pričajte o proizvodu i o sebi. Ispričajte priču koja počinje od kupca. Iz njegove perspektive. Ako vam je cijena jedini benefit za kupce, vrlo brzo će te doći u probleme. Znam kako nije ni lako biti kreativan. Ali za to postoje reklamne agencije s kojima će te zajedno postaviti strategiju i vremenom razvijati prepoznatljivu komunikaciju s vašim kupcima.
+[Zatraži ponudu][0]
 
 [0]: https://docs.google.com/forms/d/e/1FAIpQLScdOVsi3x4G0Lhj3_OM6jahpukJaGd1BQo7SdDcZ_cg58LITg/viewform
