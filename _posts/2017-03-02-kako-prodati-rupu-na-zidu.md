@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-03-02T17:16:11.288Z'
-dateModified: '2017-03-02T17:16:09.481Z'
+datePublished: '2017-03-02T17:18:47.818Z'
+dateModified: '2017-03-02T17:18:45.748Z'
 description: ''
 via: {}
 sourcePath: _posts/2017-03-02-kako-prodati-rupu-na-zidu.md
@@ -18,7 +18,7 @@ _type: Article
 # Kako **prodati** rupu na zidu?
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/002139ccb0173a41bec2a7437dba37f99eab9ca2.jpg)
 
-## Prije par mjeseci, jedan od klijenata mi je poslao jedan tekst koji je bio oglassnog karaktera. Bio je to relativno kratak sadržaj, možda na jedan A4 format bi sve stalo, kako bih dao svoje nepristrano mišljenje. Pročitao sam tekst i odgovorio mu kako je tekst odličan samo što je najviše i jedino o sebi pričao. O svojoj firmi, o proizvodu, o nagradama...
+### Prije par mjeseci, jedan od klijenata mi je poslao jedan tekst koji je bio oglassnog karaktera. Bio je to relativno kratak sadržaj, možda na jedan A4 format bi sve stalo, kako bih dao svoje nepristrano mišljenje. Pročitao sam tekst i odgovorio mu kako je tekst odličan samo što je najviše i jedino o sebi pričao. O svojoj firmi, o proizvodu, o nagradama...
 
 ---
 
