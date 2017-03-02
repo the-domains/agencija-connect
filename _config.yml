@@ -29,6 +29,9 @@ navigation:
   - name: Cjenik
     url: 'https://goo.gl/forms/Y0iTrDC1Mr0A3YVl1'
     type: external
+  - name: Cjenik cod
+    id: 1e718249-2339-4d9f-8dca-2a385796d928
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3c549c9-bef1-4fa3-a40e-b47af7508b69.png
 title: Agencija Connect
