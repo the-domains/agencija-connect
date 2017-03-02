@@ -1,14 +1,15 @@
 ---
-inFeed: true
+publisher:
+  name: ZANIMLJIVOSTI
+datePublished: '2017-03-02T20:34:52.846Z'
+dateModified: '2017-03-02T17:29:47.419Z'
 description: ''
-dateModified: '2017-03-02T15:20:16.348Z'
-datePublished: '2017-03-02T15:20:16.715Z'
-title: Infografika
-author: []
-publisher: {}
 via: {}
-isBasedOnUrl: 'http://i.imgur.com/OBqN3sl.jpg'
 sourcePath: _posts/2017-03-02-infografika.md
+title: Infografika
+isBasedOnUrl: 'http://i.imgur.com/OBqN3sl.jpg'
+inFeed: true
+author: []
 starred: false
 datePublishedOriginal: '2017-03-02T15:18:30.841Z'
 _type: MediaObject
