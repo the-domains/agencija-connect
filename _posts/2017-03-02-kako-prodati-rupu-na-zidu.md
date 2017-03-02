@@ -6,8 +6,8 @@ description: >-
   format bi sve stalo, kako bih dao svoje nepristrano mišljenje. Pročitao sam
   tekst i odgovorio mu kako je tekst odličan samo što je najviše i jedino o sebi
   pričao. O svojoj firmi, o proizvodu, o nagradama…
-dateModified: '2017-03-02T14:08:04.746Z'
-datePublished: '2017-03-02T14:08:06.550Z'
+dateModified: '2017-03-02T14:08:20.636Z'
+datePublished: '2017-03-02T14:08:23.360Z'
 title: Kako prodati rupu na zidu?
 author: []
 publisher: {}
@@ -20,7 +20,7 @@ url: kako-prodati-rupu-na-zidu/index.html
 _type: Article
 
 ---
-# **Kako prodati rupu na zidu?**
+# Kako prodati rupu na zidu?
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/002139ccb0173a41bec2a7437dba37f99eab9ca2.jpg)
 
 Prije par mjeseci, jedan od klijenata mi je poslao jedan tekst koji je bio oglasnog karaktera. Bio je to relativno kratak sadržaj, možda na jedan A4 format bi sve stalo, kako bih dao svoje nepristrano mišljenje. Pročitao sam tekst i odgovorio mu kako je tekst odličan samo što je najviše i jedino o sebi pričao. O svojoj firmi, o proizvodu, o nagradama...
