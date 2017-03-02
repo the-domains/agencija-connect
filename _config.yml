@@ -1,4 +1,3 @@
-layout_spectrum: 0.2108489132817318
 typography_spectrum: 0.9332921466045082
 color:
   brandStrength: 0.3129659063882646
@@ -12,6 +11,7 @@ color:
     - '#B64926'
     - '#8E2800'
 github: true
+layout_spectrum: 0.2108489132817318
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e298f4a-23fd-424d-85f3-ff25c48fa4c8.png
 name: Agencija Connect
@@ -30,6 +30,9 @@ navigation:
     url: >-
       https://docs.google.com/forms/d/e/1FAIpQLScdOVsi3x4G0Lhj3_OM6jahpukJaGd1BQo7SdDcZ_cg58LITg/viewform
     type: external
+  - name: Kontakt
+    id: a50ff2fa-b95e-4687-b31c-a102b3e1e8e7
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3c549c9-bef1-4fa3-a40e-b47af7508b69.png
 title: Agencija Connect
@@ -42,20 +45,19 @@ content:
     src: >-
       https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ee07b2254f91a8a9c2e53d72ffcec9258981239.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://s3-us-west-2.amazonaws.com'
         name: .s3-us-west-2.amazonaws.com
         favicon: null
         domain: s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
