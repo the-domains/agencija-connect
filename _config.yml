@@ -1,0 +1,64 @@
+typography_spectrum: 0.7319005543695265
+color:
+  brandStrength: 0.1518439765323396
+  lightness: 0.8349248006180998
+  saturation: 0.17709921576423884
+  rhythmicContrast: 0.741715845481428
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+layout_spectrum: 0.702598861532083
+name: Agencija Connect
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Portfolio
+    id: 57e6afcb-e469-49c7-9d3e-8457e96f582c
+    type: content
+title: Agencija Connect
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ba67186-3da5-4070-a88b-cdf9847ea892.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ba67186-3da5-4070-a88b-cdf9847ea892.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Graphic - Web - eMarketing
+purpose:
+  - type: contact
+    url: 'tel:+38763313588'
+    label: Call +38763313588
+  - type: contact
+    url: 'mailto:gordan@connect.ba'
+    label: Contact me
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bc97f38-b324-4654-95e4-198938098062.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bb66e0d-cc5e-4454-a38e-a48d1886d518.png
