@@ -1,7 +1,8 @@
 ---
-publisher: {}
-datePublished: '2017-03-02T17:18:47.818Z'
-dateModified: '2017-03-02T17:18:45.748Z'
+publisher:
+  name: Connect Blog
+datePublished: '2017-03-02T17:22:33.237Z'
+dateModified: '2017-03-02T17:22:32.032Z'
 description: ''
 via: {}
 sourcePath: _posts/2017-03-02-kako-prodati-rupu-na-zidu.md
