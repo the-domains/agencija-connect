@@ -1,8 +1,8 @@
 ---
 publisher:
   name: CONNECT BLOG
-datePublished: '2017-03-02T20:30:43.328Z'
-dateModified: '2017-03-02T20:30:40.358Z'
+datePublished: '2017-03-02T20:34:29.729Z'
+dateModified: '2017-03-02T20:34:24.899Z'
 description: >-
   Prije par mjeseci, jedan od klijenata mi je poslao jedan tekst koji je bio
   oglassnog karaktera. Bio je to relativno kratak sadržaj, možda na jedan A4
