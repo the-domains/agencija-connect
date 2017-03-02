@@ -1,9 +1,14 @@
 ---
 publisher:
   name: CONNECT BLOG
-datePublished: '2017-03-02T17:37:08.976Z'
-dateModified: '2017-03-02T17:37:06.675Z'
-description: ''
+datePublished: '2017-03-02T20:30:43.328Z'
+dateModified: '2017-03-02T20:30:40.358Z'
+description: >-
+  Prije par mjeseci, jedan od klijenata mi je poslao jedan tekst koji je bio
+  oglassnog karaktera. Bio je to relativno kratak sadržaj, možda na jedan A4
+  format bi sve stalo, kako bih dao svoje nepristrano mišljenje. Pročitao sam
+  tekst i odgovorio mu kako je tekst odličan samo što je najviše i jedino o sebi
+  pričao. O svojoj firmi, o proizvodu, o nagradama…
 via: {}
 sourcePath: _posts/2017-03-02-kako-prodati-rupu-na-zidu.md
 title: Kako prodati rupu na zidu?
@@ -19,7 +24,7 @@ _type: Article
 # Kako **prodati** rupu na zidu?
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/002139ccb0173a41bec2a7437dba37f99eab9ca2.jpg)
 
-### Prije par mjeseci, jedan od klijenata mi je poslao jedan tekst koji je bio oglassnog karaktera. Bio je to relativno kratak sadržaj, možda na jedan A4 format bi sve stalo, kako bih dao svoje nepristrano mišljenje. Pročitao sam tekst i odgovorio mu kako je tekst odličan samo što je najviše i jedino o sebi pričao. O svojoj firmi, o proizvodu, o nagradama...
+Prije par mjeseci, jedan od klijenata mi je poslao jedan tekst koji je bio oglassnog karaktera. Bio je to relativno kratak sadržaj, možda na jedan A4 format bi sve stalo, kako bih dao svoje nepristrano mišljenje. Pročitao sam tekst i odgovorio mu kako je tekst odličan samo što je najviše i jedino o sebi pričao. O svojoj firmi, o proizvodu, o nagradama...
 
 ---
 
