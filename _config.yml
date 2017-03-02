@@ -38,26 +38,37 @@ favicon: >-
 title: Agencija Connect
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
+    type: video
     html: >-
-      <img
-      src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ee07b2254f91a8a9c2e53d72ffcec9258981239.jpg">
-    src: >-
-      https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ee07b2254f91a8a9c2e53d72ffcec9258981239.jpg
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Flist%3DPL1yyP-uh7GHBhZ-hIQ8LfdEBA5QAG6OD7&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhaFprGMrIys&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FhaFprGMrIys%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      datePublished: null
-      keywords: []
+      author:
+        - name: hong thuong HD
+          url: 'https://www.youtube.com/user/styleproshoworg'
+          avatar: {}
       related: []
-      author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
       publisher:
-        url: 'https://s3-us-west-2.amazonaws.com'
-        name: .s3-us-west-2.amazonaws.com
-        favicon: null
-        domain: s3-us-west-2.amazonaws.com
-      description: ''
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://www.youtube.com/favicon.ico'
+        domain: youtu.be
+      keywords: []
+      description: >-
+        Note: this website will bring to you: multi-graphic, multimedia (all are
+        free): http://freemultimedia.vn/
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      '@type': VideoObject
+      app_links: []
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://youtu.be/haFprGMrIys?list=PL1yyP-uh7GHBhZ-hIQ8LfdEBA5QAG6OD7'
+      title: >-
+        Video Background HD - Style Proshow - styleproshow.org- Abstract Light
+        Video HD
+      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
