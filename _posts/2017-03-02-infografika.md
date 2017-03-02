@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-02T15:18:30.113Z'
-datePublished: '2017-03-02T15:18:30.841Z'
+dateModified: '2017-03-02T15:20:16.348Z'
+datePublished: '2017-03-02T15:20:16.715Z'
 title: Infografika
 author: []
 publisher: {}
 via: {}
 isBasedOnUrl: 'http://i.imgur.com/OBqN3sl.jpg'
+sourcePath: _posts/2017-03-02-infografika.md
 starred: false
 datePublishedOriginal: '2017-03-02T15:18:30.841Z'
-sourcePath: _posts/2017-03-02-infografika.md
 _type: MediaObject
 
 ---
