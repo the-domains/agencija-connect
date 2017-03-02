@@ -26,6 +26,10 @@ navigation:
   - name: Portfolio
     id: 57e6afcb-e469-49c7-9d3e-8457e96f582c
     type: content
+  - name: Cjenik
+    url: >-
+      https://docs.google.com/forms/d/e/1FAIpQLScdOVsi3x4G0Lhj3_OM6jahpukJaGd1BQo7SdDcZ_cg58LITg/viewform
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3c549c9-bef1-4fa3-a40e-b47af7508b69.png
 title: Agencija Connect
@@ -147,6 +151,31 @@ content:
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f580f486-92f6-44a5-8a83-961abfaae280.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/f580f486-92f6-44a5-8a83-961abfaae280.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
