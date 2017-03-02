@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-03-02T20:03:29.772Z'
-dateModified: '2017-03-02T20:03:21.555Z'
+datePublished: '2017-03-02T20:05:24.556Z'
+dateModified: '2017-03-02T20:05:19.531Z'
 via: {}
 description: >-
   Pretplatite se na naš Newsletter i unaprijedite vaše znanje o dizajnu, webu i
@@ -15,6 +15,9 @@ datePublishedOriginal: '2017-03-02T17:55:05.276Z'
 _type: Blurb
 
 ---
+[Newsletter][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4aafeee2-6c53-415c-b6b0-ede6b1a48ede.jpg)
 
 Pretplatite se na naš Newsletter i unaprijedite vaše znanje o dizajnu, webu i internet marketingu.
+
+[0]: http://www.subscribepage.com/b8c7z2
