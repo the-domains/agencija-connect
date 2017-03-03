@@ -2,11 +2,9 @@
 inFeed: true
 description: >-
   Vaš posao je kao jedna duboka šuma i na svakom stablu je po jedan problem
-  kojeg treba rješiti. Mi smo u stabju rješiti vaše nedoumice i
-  probleme.Pročitajte koje sve koristi možete imati od nas. Naše znanje,
-  iskustvo i kreativnost stavljamo vama na raspolaganje. Pročitajte više.
-dateModified: '2017-03-03T09:22:58.440Z'
-datePublished: '2017-03-03T09:22:59.014Z'
+  kojeg treba rješiti. Pročitajte koje sve koristi možete imati od nas. 
+dateModified: '2017-03-03T12:22:22.452Z'
+datePublished: '2017-03-03T12:22:22.987Z'
 title: Što mi radimo?
 author: []
 publisher: {}
@@ -21,8 +19,7 @@ _type: Article
 ---
 # Što mi radimo?
 
-Vaš posao je kao jedna duboka šuma i na svakom stablu je po jedan problem kojeg treba rješiti. Mi smo u stabju rješiti vaše nedoumice i probleme.Pročitajte koje sve koristi možete imati od nas. Naše znanje, iskustvo i kreativnost stavljamo vama na raspolaganje. **Pročitajte više.**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5a909d3-49b9-45dd-9b19-05d9e48511d5.jpg)
+Vaš posao je kao jedna duboka šuma i na svakom stablu je po jedan problem kojeg treba rješiti. Pročitajte koje sve koristi možete imati od nas. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5a909d3-49b9-45dd-9b19-05d9e48511d5.jpg)
 
 ---
 
