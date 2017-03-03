@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-03-03T09:54:54.397Z'
-dateModified: '2017-03-03T09:54:53.866Z'
+datePublished: '2017-03-03T10:03:21.943Z'
+dateModified: '2017-03-03T10:03:20.900Z'
 via: {}
 description: ''
 title: ''
@@ -13,7 +13,7 @@ datePublishedOriginal: '2017-03-02T17:55:05.276Z'
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b20c43c8-55a3-4c7c-9631-78914d9eaad8.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7078ccf4-c5c4-4207-9df7-eca1fa86fdf2.jpg)
 
 > Pretplatite se na Newsletter i dva puta mjesečno dobijajte korisne savjete o internet marketingu, grafičkom dizajnu....i mnogo toga.
 
