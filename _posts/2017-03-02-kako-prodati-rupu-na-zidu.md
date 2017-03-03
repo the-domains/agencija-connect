@@ -1,8 +1,8 @@
 ---
 publisher:
   name: CONNECT BLOG
-datePublished: '2017-03-03T12:25:41.844Z'
-dateModified: '2017-03-03T12:25:41.273Z'
+datePublished: '2017-03-03T13:47:10.336Z'
+dateModified: '2017-03-03T13:47:09.028Z'
 description: >-
   Ako vam je CIJENA proizvoda jedini argument koji nudite kupcima, onda jao si
   ga vama. Saznajte šta to još može koristiti vašim kupcima.
@@ -69,5 +69,9 @@ Jeli vam jedino cijena bitna ili nešto i od ovih stvari ulazi u konačnu odluku
 
 Jeste li ovo sve zanemarili samo kako bi kupili najjeftiniji proizvod. Po logici niskih cijena ljudi bi trebali kupovati robu samo na pijaci. Stoga, razmislite o korisnosti za kupca koju nudi vaš proizvod. Ne pričajte o proizvodu i o sebi. Ispričajte priču koja počinje od kupca. Iz njegove perspektive. Ako vam je cijena jedini benefit za kupce, vrlo brzo će te doći u probleme. Znam kako nije ni lako biti kreativan. Ali za to postoje reklamne agencije s kojima će te zajedno postaviti strategiju i vremenom razvijati prepoznatljivu komunikaciju s vašim kupcima.
 [Zatraži ponudu][0]
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkE1LxDAQhu_9FaGCm0A3UU8L_TgUBL3sQbyJSJtM1nS3yTJJi4v4352yFbzNx8P7vjOVcTNzps5tv8UQUt5UikZNVkWN7pwabievkwuem4LFgljBvjPG5g7ZQL0dIquZkQdIjycYwafYXl67w74bgUfxdvdeEu0s4_-Z9vJsOEkJhpAm9AuzCmmELsHKkUJJC-kM7Zy5YjKipjZXSgfvQSdpOw19CEfpIalP_Hh6UdEc5RBvvmw_nur72xkw0hH1_CB3-SJDueW5Q_LYBwPS-QiYWrABga93iTL74SboaUlSsM31Ixuq_vy2QySfjRBlpdZ_Zb93026J" height="244" style=""></iframe>
+
+
 
 [0]: https://docs.google.com/forms/d/e/1FAIpQLScdOVsi3x4G0Lhj3_OM6jahpukJaGd1BQo7SdDcZ_cg58LITg/viewform
