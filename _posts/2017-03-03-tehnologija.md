@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-03T13:57:38.525Z'
-datePublished: '2017-03-03T13:57:39.105Z'
-title: 'Istraživanje '
+dateModified: '2017-03-03T13:57:52.859Z'
+datePublished: '2017-03-03T13:57:53.472Z'
+title: '2. Istraživanje '
 author: []
 publisher: {}
 via: {}
@@ -15,4 +15,4 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0b68251-37ae-4d96-85df-a46191541ad3.jpg)
 
-# Istraživanje
+# 2\. Istraživanje
