@@ -1,8 +1,8 @@
 ---
 publisher:
   name: CONNECT BLOG
-datePublished: '2017-03-03T13:47:10.336Z'
-dateModified: '2017-03-03T13:47:09.028Z'
+datePublished: '2017-03-03T13:48:13.684Z'
+dateModified: '2017-03-03T13:48:13.101Z'
 description: >-
   Ako vam je CIJENA proizvoda jedini argument koji nudite kupcima, onda jao si
   ga vama. Saznajte šta to još može koristiti vašim kupcima.
@@ -71,6 +71,8 @@ Jeste li ovo sve zanemarili samo kako bi kupili najjeftiniji proizvod. Po logici
 [Zatraži ponudu][0]
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkE1LxDAQhu_9FaGCm0A3UU8L_TgUBL3sQbyJSJtM1nS3yTJJi4v4352yFbzNx8P7vjOVcTNzps5tv8UQUt5UikZNVkWN7pwabievkwuem4LFgljBvjPG5g7ZQL0dIquZkQdIjycYwafYXl67w74bgUfxdvdeEu0s4_-Z9vJsOEkJhpAm9AuzCmmELsHKkUJJC-kM7Zy5YjKipjZXSgfvQSdpOw19CEfpIalP_Hh6UdEc5RBvvmw_nur72xkw0hH1_CB3-SJDueW5Q_LYBwPS-QiYWrABga93iTL74SboaUlSsM31Ixuq_vy2QySfjRBlpdZ_Zb93026J" height="244" style=""></iframe>
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwtzUESQDAMQNGrmO7Jysa0nCXS0BpNjYTz68IB3v8-5rejE1WD29aeaikspq6LaNinm7fgktmlE4Al3u8cB8yAOwvlAxsQYTJYCClxkPpLecpV1Vp1dLOHdpk_BBIljQ" height="244" style=""></iframe>
 
 
 
