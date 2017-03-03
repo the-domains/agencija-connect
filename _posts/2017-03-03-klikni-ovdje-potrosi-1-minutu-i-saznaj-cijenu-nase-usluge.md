@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-03-03T20:10:50.718Z'
-dateModified: '2017-03-03T20:10:50.098Z'
+datePublished: '2017-03-03T20:13:26.808Z'
+dateModified: '2017-03-03T20:13:24.931Z'
 description: 'Klikni ovdje, potroši 1 minutu i saznaj cijenu naše usluge!'
 via: {}
 sourcePath: _posts/2017-03-03-klikni-ovdje-potrosi-1-minutu-i-saznaj-cijenu-nase-usluge.md
@@ -15,10 +15,6 @@ datePublishedOriginal: '2017-03-03T12:52:02.160Z'
 _type: MediaObject
 
 ---
-[Klikni ovdje][0]
-
 > Klikni ovdje, potroši 1 minutu i saznaj cijenu naše usluge!
 
-
-
-[0]: www.connect.ba
+<button data-role="cta" style="">Klikni ovdje</button>
