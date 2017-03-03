@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: 'Klikni ovdje, potroši 1 minutu i saznaj cijenu naše usluge!'
-dateModified: '2017-03-03T12:52:01.475Z'
-datePublished: '2017-03-03T12:52:02.160Z'
+dateModified: '2017-03-03T12:52:14.594Z'
+datePublished: '2017-03-03T12:52:14.701Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-03-03-klikni-ovdje-potrosi-1-minutu-i-saznaj-cijenu-nase-usluge.md
 starred: false
 datePublishedOriginal: '2017-03-03T12:52:02.160Z'
-sourcePath: _posts/2017-03-03-klikni-ovdje-potrosi-1-minutu-i-saznaj-cijenu-nase-usluge.md
 _type: Blurb
 
 ---
