@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-03-03T20:13:26.808Z'
-dateModified: '2017-03-03T20:13:24.931Z'
+datePublished: '2017-03-03T20:15:20.808Z'
+dateModified: '2017-03-03T20:15:10.215Z'
 description: 'Klikni ovdje, potroši 1 minutu i saznaj cijenu naše usluge!'
 via: {}
 sourcePath: _posts/2017-03-03-klikni-ovdje-potrosi-1-minutu-i-saznaj-cijenu-nase-usluge.md
@@ -16,5 +16,3 @@ _type: MediaObject
 
 ---
 > Klikni ovdje, potroši 1 minutu i saznaj cijenu naše usluge!
-
-<button data-role="cta" style="">Klikni ovdje</button>
