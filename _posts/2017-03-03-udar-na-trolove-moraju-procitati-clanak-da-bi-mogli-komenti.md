@@ -17,8 +17,8 @@ inLanguage: hr
 app_links: []
 isBasedOnUrl: 'http://www.bug.hr/vijesti/udar-trolove-moraju-procitati-clanak-mog/158989.aspx'
 title: 'Udar na trolove: moraju pročitati članak da bi mogli komentirati'
-datePublished: '2017-03-03T10:07:26.404Z'
-dateModified: '2017-03-03T10:07:23.367Z'
+datePublished: '2017-03-03T10:08:43.671Z'
+dateModified: '2017-03-03T10:08:42.395Z'
 via: {}
 inFeed: true
 sourcePath: >-
