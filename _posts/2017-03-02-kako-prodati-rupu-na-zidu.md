@@ -1,14 +1,11 @@
 ---
 publisher:
   name: CONNECT BLOG
-datePublished: '2017-03-02T20:34:29.729Z'
-dateModified: '2017-03-02T20:34:24.899Z'
+datePublished: '2017-03-03T12:24:05.569Z'
+dateModified: '2017-03-03T12:24:05.029Z'
 description: >-
-  Prije par mjeseci, jedan od klijenata mi je poslao jedan tekst koji je bio
-  oglassnog karaktera. Bio je to relativno kratak sadržaj, možda na jedan A4
-  format bi sve stalo, kako bih dao svoje nepristrano mišljenje. Pročitao sam
-  tekst i odgovorio mu kako je tekst odličan samo što je najviše i jedino o sebi
-  pričao. O svojoj firmi, o proizvodu, o nagradama…
+  Ako vam je CIJENA proizvoda jedini argument koji nudite kupcima, onda jao si
+  ga vama.
 via: {}
 sourcePath: _posts/2017-03-02-kako-prodati-rupu-na-zidu.md
 title: Kako prodati rupu na zidu?
@@ -24,9 +21,11 @@ _type: Article
 # Kako **prodati** rupu na zidu?
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/002139ccb0173a41bec2a7437dba37f99eab9ca2.jpg)
 
-Prije par mjeseci, jedan od klijenata mi je poslao jedan tekst koji je bio oglassnog karaktera. Bio je to relativno kratak sadržaj, možda na jedan A4 format bi sve stalo, kako bih dao svoje nepristrano mišljenje. Pročitao sam tekst i odgovorio mu kako je tekst odličan samo što je najviše i jedino o sebi pričao. O svojoj firmi, o proizvodu, o nagradama...
+Ako vam je CIJENA proizvoda jedini argument koji nudite kupcima, onda jao si ga vama.
 
 ---
+
+Prije par mjeseci, jedan od klijenata mi je poslao jedan tekst koji je bio oglassnog karaktera. Bio je to relativno kratak sadržaj, možda na jedan A4 format bi sve stalo, kako bih dao svoje nepristrano mišljenje. Pročitao sam tekst i odgovorio mu kako je tekst odličan samo što je najviše i jedino o sebi pričao. O svojoj firmi, o proizvodu, o nagradama...
 
 Moram vam reći jednu istinu, ljudi koji žele s vama surađivati, njih to ne briga. Njih ne interesira što ste vi dobili nagradu, što imate 1000 kreveta u hotelu, što imate najnoviju opremu, najbolje računalo...možete se hvaliti koliko hoćete ali...ne prolazi. Zašto?  
 Ljudi žele kupiti ono što njima donosi korist i samo o tome razmišljaju. Jer zapamtite, kupci su najvažniji sami sebi. Vi prodajete BENEFITE proizvoda, tj. korist koju ja dobijam. I zato vratimo se na naslov ovoga Bloga, ljudi ne kupuju bušilicu nego kupuju rupu. To je korist koja mu donosi bušilica. To je stara priča i to je odgovor na pitanje iz naslova.  
