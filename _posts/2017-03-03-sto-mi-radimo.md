@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Vaš posao je kao jedna duboka šuma i na svakom stablu je po jedan problem
   kojeg treba rješiti. Pročitajte koje sve koristi možete imati od nas. 
-dateModified: '2017-03-03T12:22:22.452Z'
-datePublished: '2017-03-03T12:22:22.987Z'
+dateModified: '2017-03-03T12:44:08.560Z'
+datePublished: '2017-03-03T12:44:08.953Z'
 title: Što mi radimo?
 author: []
 publisher: {}
