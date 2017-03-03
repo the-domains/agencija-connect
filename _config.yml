@@ -38,66 +38,7 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3c549c9-bef1-4fa3-a40e-b47af7508b69.png
 title: Agencija Connect
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: video
-    html: >-
-      <iframe
-      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Flist%3DPL1yyP-uh7GHBhZ-hIQ8LfdEBA5QAG6OD7&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhaFprGMrIys&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FhaFprGMrIys%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
-      width="640" height="360" scrolling="no" frameborder="0"
-      allowfullscreen></iframe>
-    src: !<tag:yaml.org,2002:js/undefined> ''
-    metadata:
-      author:
-        - name: hong thuong HD
-          url: 'https://www.youtube.com/user/styleproshoworg'
-          avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://www.youtube.com/favicon.ico'
-        domain: youtu.be
-      keywords: []
-      description: >-
-        Note: this website will bring to you: multi-graphic, multimedia (all are
-        free): http://freemultimedia.vn/
-      '@type': VideoObject
-      app_links: []
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://youtu.be/haFprGMrIys?list=PL1yyP-uh7GHBhZ-hIQ8LfdEBA5QAG6OD7'
-      title: >-
-        Video Background HD - Style Proshow - styleproshow.org- Abstract Light
-        Video HD
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/67077570-aa8a-4043-9730-18c2decedde1.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/67077570-aa8a-4043-9730-18c2decedde1.jpg
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: Graphic - Web - eMarketing
 purpose:
   - type: contact
