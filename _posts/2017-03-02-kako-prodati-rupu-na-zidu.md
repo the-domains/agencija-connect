@@ -1,11 +1,11 @@
 ---
 publisher:
   name: CONNECT BLOG
-datePublished: '2017-03-03T12:24:05.569Z'
-dateModified: '2017-03-03T12:24:05.029Z'
+datePublished: '2017-03-03T12:25:41.844Z'
+dateModified: '2017-03-03T12:25:41.273Z'
 description: >-
   Ako vam je CIJENA proizvoda jedini argument koji nudite kupcima, onda jao si
-  ga vama.
+  ga vama. Saznajte šta to još može koristiti vašim kupcima.
 via: {}
 sourcePath: _posts/2017-03-02-kako-prodati-rupu-na-zidu.md
 title: Kako prodati rupu na zidu?
@@ -21,7 +21,7 @@ _type: Article
 # Kako **prodati** rupu na zidu?
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/002139ccb0173a41bec2a7437dba37f99eab9ca2.jpg)
 
-Ako vam je CIJENA proizvoda jedini argument koji nudite kupcima, onda jao si ga vama.
+Ako vam je CIJENA proizvoda jedini argument koji nudite kupcima, onda jao si ga vama. Saznajte šta to još može koristiti vašim kupcima.
 
 ---
 
