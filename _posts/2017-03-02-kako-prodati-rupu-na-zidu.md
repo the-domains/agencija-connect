@@ -1,8 +1,8 @@
 ---
 publisher:
   name: CONNECT BLOG
-datePublished: '2017-03-03T13:48:20.132Z'
-dateModified: '2017-03-03T13:48:19.521Z'
+datePublished: '2017-03-03T13:50:13.254Z'
+dateModified: '2017-03-03T13:50:12.809Z'
 description: >-
   Ako vam je CIJENA proizvoda jedini argument koji nudite kupcima, onda jao si
   ga vama. Saznajte šta to još može koristiti vašim kupcima.
@@ -70,9 +70,7 @@ Jeli vam jedino cijena bitna ili nešto i od ovih stvari ulazi u konačnu odluku
 Jeste li ovo sve zanemarili samo kako bi kupili najjeftiniji proizvod. Po logici niskih cijena ljudi bi trebali kupovati robu samo na pijaci. Stoga, razmislite o korisnosti za kupca koju nudi vaš proizvod. Ne pričajte o proizvodu i o sebi. Ispričajte priču koja počinje od kupca. Iz njegove perspektive. Ako vam je cijena jedini benefit za kupce, vrlo brzo će te doći u probleme. Znam kako nije ni lako biti kreativan. Ali za to postoje reklamne agencije s kojima će te zajedno postaviti strategiju i vremenom razvijati prepoznatljivu komunikaciju s vašim kupcima.
 [Zatraži ponudu][0]
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkE1LxDAQhu_9FaGCm0A3UU8L_TgUBL3sQbyJSJtM1nS3yTJJi4v4352yFbzNx8P7vjOVcTNzps5tv8UQUt5UikZNVkWN7pwabievkwuem4LFgljBvjPG5g7ZQL0dIquZkQdIjycYwafYXl67w74bgUfxdvdeEu0s4_-Z9vJsOEkJhpAm9AuzCmmELsHKkUJJC-kM7Zy5YjKipjZXSgfvQSdpOw19CEfpIalP_Hh6UdEc5RBvvmw_nur72xkw0hH1_CB3-SJDueW5Q_LYBwPS-QiYWrABga93iTL74SboaUlSsM31Ixuq_vy2QySfjRBlpdZ_Zb93026J" height="244" style=""></iframe>
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwtzUESQDAMQNGrmO7Jysa0nCXS0BpNjYTz68IB3v8-5rejE1WD29aeaikspq6LaNinm7fgktmlE4Al3u8cB8yAOwvlAxsQYTJYCClxkPpLecpV1Vp1dLOHdpk_BBIljQ" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkdFLwzAQxt_3V4QKroU1UUEQ204YCPqyB_FNRLLk0qZbk5JLi0P8371uHfiWy_3yfXdfSm1HZnWVmF0evI_JuhR0tV6UqILt4zo1g1PRepfqFcMVsRn7WTA2ysBaqk2LrGKa1xCfD9CBi7g5vst6KztIMfu4-SyItoal_5nN8VWnJJWxAHEIbmJmIRVARpg5Uiiowa2mntVnjGNQVCZCKO8cqMiNVLDzfs8dRNGEr5c3gXrPW7z6NrvuUN1ejxCQlqjGO_6QTDI0N-9lII-t18CtQwhxA8YHSOe9smLxm2qvhmmSFVueE1nS6eKXt0g-yywrSjHntSinRNVBIp5CVb47hZIwLaPMmwCmSpoYe3wUIjZQB6u5tELW4JRtZT7vJJ6UVA1Uzs8v3dD1HiOp3l8-6Q-xb5QV" height="244" style=""></iframe>
 
 
 
