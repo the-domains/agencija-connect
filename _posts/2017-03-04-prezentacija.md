@@ -3,9 +3,9 @@ inFeed: true
 description: >-
   Ponuditi ćemo nekoliko rješenja i zajedno s vama odabrati najbolje ili ako je
   potrebno neka i doraditi kako bi došli do konačnog cilja.
-dateModified: '2017-03-04T22:46:45.463Z'
-datePublished: '2017-03-04T22:46:46.720Z'
-title: 4.Prezentacija radova
+dateModified: '2017-03-04T22:49:37.500Z'
+datePublished: '2017-03-04T22:49:37.899Z'
+title: 4. Prezentacija radova
 author: []
 publisher: {}
 via: {}
@@ -17,6 +17,6 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/03b28fbe-3594-430b-8a55-232531169aba.jpg)
 
-# 4.Prezentacija radova
+# 4\. Prezentacija radova
 
 Ponuditi ćemo nekoliko rješenja i zajedno s vama odabrati najbolje ili ako je potrebno neka i doraditi kako bi došli do konačnog cilja.
