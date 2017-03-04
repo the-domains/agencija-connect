@@ -1,8 +1,8 @@
 ---
 publisher:
   name: CONNECT USLUGA
-datePublished: '2017-03-04T14:35:16.571Z'
-dateModified: '2017-03-04T14:35:15.857Z'
+datePublished: '2017-03-04T15:03:11.636Z'
+dateModified: '2017-03-04T15:03:11.090Z'
 via: {}
 description: >-
   Izrada web stranica danas je složenija nego ikada. Nije dovoljno da ona samo
@@ -21,6 +21,6 @@ _type: Blurb
 
 # Mi znamo dizajnirati web stranice!
 
-Izrada web stranica danas je složenija nego ikada. Nije dovoljno da ona samo dobro izgleda. Danas više od 50% posjetitelja na web stranice dolazi s mobilnih uređaja. [Vidi više...][0]
+Izrada web stranica danas je složenija nego ikada. Nije dovoljno da ona samo dobro izgleda. Danas više od 50% posjetitelja na web stranice dolazi s mobilnih uređaja.[Vidi više...][0]
 
-[0]: https://thegrid.ai/agencija-connect/sto-mi-radimo
+[0]: http://connect365.online/sto-mi-radimo/
