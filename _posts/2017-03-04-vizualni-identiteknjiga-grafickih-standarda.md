@@ -4,29 +4,29 @@ description: >-
   Vizualni identitet je zbir svih aspekata koje poduzeće formira kao vlastito,
   prepoznatljivo i konzistentno, kroz sva sredstva komunikacije, promocijom i
   distribucijom materijala, podjednako unutar i izvan poduzeća.
-dateModified: '2017-03-04T19:16:51.904Z'
-datePublished: '2017-03-04T19:16:53.307Z'
-title: Vizualni identite/Knjiga grafičkih standarda
+dateModified: '2017-03-04T19:23:49.074Z'
+datePublished: '2017-03-04T19:23:49.701Z'
+title: Vizualni identitet/Knjiga grafičkih standarda
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-03-04-vizualni-identiteknjiga-grafickih-standarda.md
 starred: false
 datePublishedOriginal: '2017-03-04T19:16:53.307Z'
-sourcePath: _posts/2017-03-04-vizualni-identiteknjiga-grafickih-standarda.md
 url: vizualni-identiteknjiga-grafickih-standarda/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c8e7c4f-efe6-495f-b788-3cb273281ef2.jpg)
 
-# Vizualni identite/Knjiga grafičkih standarda
+# Vizualni identitet/Knjiga grafičkih standarda
 
 Vizualni identitet je zbir svih aspekata koje poduzeće formira kao vlastito, prepoznatljivo i konzistentno, kroz sva sredstva komunikacije, promocijom i distribucijom materijala, podjednako unutar i izvan poduzeća.
 
 ---
 
-Vizualni identitet, kućni stil ili imidž tvrtke ili korporacije kreira se i osmišljava grafičkim dizajnom i marketingom, provodi na sve segmente poduzeća i najčešće definira pomoću priručnika osnovnih standarda. 
+Vizualni identitet, kućni stil ili imidž tvrtke ili korporacije kreira se i osmišljava grafičkim dizajnom i marketingom, provodi na sve segmente poduzeća i najčešće definira pomoću priručnika osnovnih standarda.
 
 Budući da tvrtka ili korporacija u svom sastavu ima niz objekata: tvornice, same proizvode, pisane materijale, vozila, uniforme i sl., a bavi se i propagandnom aktivnošću, o svemu tome stječu cjelovite dojmove klijenti, zastupnici, financijeri, najšira javnost i vlastito osoblje.
 
@@ -34,7 +34,7 @@ Vizualni identitet nastaje planiranim, koordiniranim i profesionalnim djelovanje
 
 > Prednost identiteta tvrtke jest u ekonomičnosti nastupa na tržištu.
 
-Nadalje, jednu od osnovnih karakteristika realizacije identiteta tvrtke predstavlja kontinuiranost djelatnosti na uspostavljenju tog identiteta. U tom smislu i priručnik standarda treba shvatiti kao dinamički, a ne statički i zaokruženi sistem, tj. kao priručnik koji se stalno upotpunjuje, izmjenjuje i usavršava. Ovo usavršavanje mora biti programirano i terminski, kadrovski i organizacijski planirano.
+Nadalje, jednu od osnovnih karakteristika realizacije identiteta tvrtke predstavlja kontinuiranost djelatnosti na uspostavljenju tog identiteta. U tom smislu i **KNJIGU GRAFIČKIH STANDARDA** treba shvatiti kao dinamički, a ne statički i zaokruženi sistem, tj. kao priručnik koji se stalno upotpunjuje, izmjenjuje i usavršava. Ovo usavršavanje mora biti programirano i terminski, kadrovski i organizacijski planirano.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/77939349-b903-4777-b5ab-00962c5485e2.jpg)
 
 Naime, efekti svake marketinške akcije koja je podređena osnovnoj koncepciji identiteta kumuliraju se (zbrajaju), što u slučaju provedbe akcije marketinga bez strateškog plana identiteta tvrtke nije slučaj. Praktički, svaka se ekonomsko-propagandna akcija ili druga marketinška akcija u javnosti gubi nedugo nakon prestanka njezina provođenja i djelovanja. Niz međusobno nekoordiniranih akcija ne ostavlja željeni efekt.
