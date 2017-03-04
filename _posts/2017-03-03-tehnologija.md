@@ -1,11 +1,11 @@
 ---
 inFeed: true
 description: >-
-  U ovom dijelu radimo istraživanje tržišta, želimo saznati potreba kupaca,
-  istraži konkurenciju i mnogo drugih stvari koje će nam pomoći doći do konačnog
-  rješenja.
-dateModified: '2017-03-04T22:23:36.318Z'
-datePublished: '2017-03-04T22:23:36.868Z'
+  U ovom dijelu radimo istraživanje tržišta, želimo saznati potrebe kupaca,
+  istražiti konkurenciju i mnogo drugih stvari koje će nam pomoći doći do
+  finalnog rješenja.
+dateModified: '2017-03-04T22:25:00.574Z'
+datePublished: '2017-03-04T22:25:01.273Z'
 title: 2. Istraživanje
 author: []
 publisher: {}
@@ -18,4 +18,4 @@ _type: Blurb
 ---
 # 2\. Istraživanje
 
-U ovom dijelu radimo istraživanje tržišta, želimo saznati potreba kupaca, istraži konkurenciju i mnogo drugih stvari koje će nam pomoći doći do konačnog rješenja.
+U ovom dijelu radimo istraživanje tržišta, želimo saznati potrebe kupaca, istražiti konkurenciju i mnogo drugih stvari koje će nam pomoći doći do finalnog rješenja.
