@@ -1,18 +1,16 @@
 ---
 inFeed: true
-description: Zatražite ponudu !
-dateModified: '2017-03-04T23:12:35.721Z'
-datePublished: '2017-03-04T23:12:35.926Z'
-title: ''
+description: ''
+dateModified: '2017-03-04T23:14:48.042Z'
+datePublished: '2017-03-04T23:14:48.510Z'
+title: Zatražite ponudu !
 author: []
 publisher: {}
 via: {}
-isBasedOnUrl: >-
-  https://docs.google.com/forms/d/e/1FAIpQLScdOVsi3x4G0Lhj3_OM6jahpukJaGd1BQo7SdDcZ_cg58LITg/viewform
-sourcePath: _posts/2017-03-04-zatrazite-ponudu.md
 starred: false
-datePublishedOriginal: '2017-03-04T23:12:20.271Z'
-_type: MediaObject
+datePublishedOriginal: '2017-03-04T23:14:48.510Z'
+sourcePath: _posts/2017-03-04-zatrazite-ponudu.md
+_type: Blurb
 
 ---
-> Zatražite ponudu !
+## Zatražite ponudu !
