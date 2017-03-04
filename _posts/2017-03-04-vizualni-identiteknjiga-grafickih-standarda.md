@@ -4,8 +4,8 @@ description: >-
   Vizualni identitet je zbir svih aspekata koje poduzeće formira kao vlastito,
   prepoznatljivo i konzistentno, kroz sva sredstva komunikacije, promocijom i
   distribucijom materijala, podjednako unutar i izvan poduzeća.
-dateModified: '2017-03-04T22:46:45.463Z'
-datePublished: '2017-03-04T22:46:46.674Z'
+dateModified: '2017-03-04T23:00:40.154Z'
+datePublished: '2017-03-04T23:00:41.427Z'
 title: Vizualni identitet/Knjiga grafičkih standarda
 author: []
 publisher: {}
