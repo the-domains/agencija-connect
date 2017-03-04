@@ -4,7 +4,7 @@ description: >-
   Ponuditi ćemo nekoliko rješenja i zajedno s vama odabrati najbolje ili ako je
   potrebno neka i doraditi kako bi došli do konačnog cilja.
 dateModified: '2017-03-04T22:49:37.500Z'
-datePublished: '2017-03-04T22:49:37.899Z'
+datePublished: '2017-03-04T22:49:37.867Z'
 title: 4. Prezentacija radova
 author: []
 publisher: {}
