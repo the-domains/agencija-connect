@@ -1,8 +1,8 @@
 ---
 publisher:
   name: CJENIK
-datePublished: '2017-03-04T22:46:46.674Z'
-dateModified: '2017-03-04T22:46:45.463Z'
+datePublished: '2017-03-04T23:00:41.348Z'
+dateModified: '2017-03-04T23:00:40.154Z'
 description: 'Klikni ovdje, potroši 1 minutu i saznaj cijenu naše usluge!'
 via: {}
 sourcePath: _posts/2017-03-03-klikni-ovdje-potrosi-1-minutu-i-saznaj-cijenu-nase-usluge.md
