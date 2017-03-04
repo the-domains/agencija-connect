@@ -1,10 +1,10 @@
 ---
 inFeed: true
 description: >-
-  Upoznavanje sa zahtjevima našega klijenta, s mjegovim problemima, željama i
+  Upoznavanje sa zahtjevima našega klijenta, s njegovim problemima, željama i
   mogućnostima.
-dateModified: '2017-03-04T22:14:24.449Z'
-datePublished: '2017-03-04T22:14:24.916Z'
+dateModified: '2017-03-04T22:15:35.886Z'
+datePublished: '2017-03-04T22:15:36.378Z'
 title: 1. Razgovor s klijentom
 author: []
 publisher: {}
@@ -21,4 +21,4 @@ _type: Article
 
 # 1\. Razgovor s klijentom
 
-Upoznavanje sa zahtjevima našega klijenta, s mjegovim problemima, željama i mogućnostima.
+Upoznavanje sa zahtjevima našega klijenta, s njegovim problemima, željama i mogućnostima.
