@@ -4,8 +4,8 @@ description: >-
   U ovom dijelu radimo istraživanje tržišta, želimo saznati potrebe kupaca,
   istražiti konkurenciju i mnogo drugih stvari koje će nam pomoći doći do
   finalnog rješenja.
-dateModified: '2017-03-04T22:26:06.494Z'
-datePublished: '2017-03-04T22:26:07.051Z'
+dateModified: '2017-03-04T22:26:20.359Z'
+datePublished: '2017-03-04T22:26:20.976Z'
 title: 2. Istraživanje
 author: []
 publisher: {}
@@ -17,5 +17,6 @@ _type: Blurb
 
 ---
 # 2\. Istraživanje
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49b04e84-4b8c-4562-8202-9d4547d48f5e.jpg)
 
 U ovom dijelu radimo istraživanje tržišta, želimo saznati potrebe kupaca, istražiti konkurenciju i mnogo drugih stvari koje će nam pomoći doći do finalnog rješenja.
