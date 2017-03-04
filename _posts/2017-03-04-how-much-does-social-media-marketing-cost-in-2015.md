@@ -1,5 +1,8 @@
 ---
-author: []
+author:
+  - name: Vidi više
+    url: >-
+      https://www.pinterest.com/pin/518547344579977198/visual-search/?x=94&y=235&w=376&h=940
 related: []
 publisher:
   url: 'http://blog.lyfemarketing.com'
@@ -26,8 +29,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://blog.lyfemarketing.com/how-much-does-social-media-marketing-cost/'
 title: Koliko košta Social Media Marketing ?
-datePublished: '2017-03-04T15:54:47.488Z'
-dateModified: '2017-03-04T15:54:46.276Z'
+datePublished: '2017-03-04T16:06:12.477Z'
+dateModified: '2017-03-04T16:06:11.915Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-04-how-much-does-social-media-marketing-cost-in-2015.md
