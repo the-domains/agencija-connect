@@ -30,15 +30,15 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
+  - name: Što mi radimo
+    url: 'http://connect365.online/sto-mi-radimo'
+    type: external
   - name: Portfolio
     id: 57e6afcb-e469-49c7-9d3e-8457e96f582c
     type: content
   - name: Cjenik
     url: >-
       https://docs.google.com/forms/d/e/1FAIpQLScdOVsi3x4G0Lhj3_OM6jahpukJaGd1BQo7SdDcZ_cg58LITg/viewform
-    type: external
-  - name: Što mi radimo
-    url: 'http://connect365.online/sto-mi-radimo'
     type: external
   - name: Kontakt
     id: a50ff2fa-b95e-4687-b31c-a102b3e1e8e7
