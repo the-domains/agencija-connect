@@ -1,15 +1,27 @@
-name: Agencija Connect
+typography_spectrum: 0.5544629436936046
+content_rating:
+  adult: false
+color:
+  lightness: 0.1994795989213825
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  saturation: 0.4737398899946878
+  brandStrength: 0.06606604039641374
+  rhythmicContrast: 0.3485534270862025
+github: true
+opengraph:
+  type: 'https://www.facebook.com/Connect.Agencija.za.trzisne.komunikacije/'
+layout_spectrum: 0.3292631755442829
 analytics:
   google: UA-19682937-18
-purpose:
-  - type: contact
-    url: 'tel:+38763313588'
-    label: Call +38763313588
-  - type: contact
-    url: 'mailto:info@connect.ba'
-    label: Contact me
-github: true
-description: Graphic - Web - eMarketing
+author: {}
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e298f4a-23fd-424d-85f3-ff25c48fa4c8.png
+name: Agencija Connect
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -17,7 +29,22 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-author: {}
+navigation:
+  - name: Portfolio
+    id: 57e6afcb-e469-49c7-9d3e-8457e96f582c
+    type: content
+  - name: Cjenik
+    url: >-
+      https://docs.google.com/forms/d/e/1FAIpQLScdOVsi3x4G0Lhj3_OM6jahpukJaGd1BQo7SdDcZ_cg58LITg/viewform
+    type: external
+  - name: Kontakt
+    id: a50ff2fa-b95e-4687-b31c-a102b3e1e8e7
+    type: content
+  - name: Što mi radimo
+    url: 'http://connect365.online/sto-mi-radimo'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3c549c9-bef1-4fa3-a40e-b47af7508b69.png
 collections:
   - index:
       path: /
@@ -30,6 +57,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Agencija Connect
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -39,54 +67,29 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c94bbf9-9687-4ff2-8afc-f9bf39fd8b47.jpg
     metadata:
-      author: []
       datePublished: null
       keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
       '@type': MediaObject
+      app_links: []
       publisher:
         favicon: null
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       description: ''
-      related: []
-      app_links: []
-      '@context': 'http://schema.org'
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-navigation:
-  - name: Portfolio
-    id: 57e6afcb-e469-49c7-9d3e-8457e96f582c
-    type: content
-  - name: Cjenik
-    url: >-
-      https://docs.google.com/forms/d/e/1FAIpQLScdOVsi3x4G0Lhj3_OM6jahpukJaGd1BQo7SdDcZ_cg58LITg/viewform
-    type: external
-  - name: Kontakt
-    id: a50ff2fa-b95e-4687-b31c-a102b3e1e8e7
-    type: content
-layout_spectrum: 0.3292631755442829
-color:
-  lightness: 0.1994795989213825
-  brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
-  saturation: 0.4737398899946878
-  brandStrength: 0.06606604039641374
-  rhythmicContrast: 0.3485534270862025
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3c549c9-bef1-4fa3-a40e-b47af7508b69.png
-content_rating:
-  adult: false
-typography_spectrum: 0.5544629436936046
-opengraph:
-  type: 'https://www.facebook.com/Connect.Agencija.za.trzisne.komunikacije/'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e298f4a-23fd-424d-85f3-ff25c48fa4c8.png
 coverPrefs:
   filter: false
-title: Agencija Connect
+description: Graphic - Web - eMarketing
+purpose:
+  - type: contact
+    url: 'tel:+38763313588'
+    label: Call +38763313588
+  - type: contact
+    url: 'mailto:info@connect.ba'
+    label: Contact me
