@@ -28,8 +28,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://blog.lyfemarketing.com/how-much-does-social-media-marketing-cost/'
 title: Koliko košta Social Media Marketing ?
-datePublished: '2017-03-04T22:46:46.632Z'
-dateModified: '2017-03-04T22:46:45.463Z'
+datePublished: '2017-03-04T23:00:41.418Z'
+dateModified: '2017-03-04T23:00:40.154Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-04-how-much-does-social-media-marketing-cost-in-2015.md
