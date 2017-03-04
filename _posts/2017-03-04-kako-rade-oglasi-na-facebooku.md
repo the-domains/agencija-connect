@@ -4,8 +4,8 @@ description: >-
   Radiju kao mediju je trebalo 40 godina da dosegne 50 mil. korisnika, Facebooku
   svega par godina. Saznajte kako funkcioniraju oglasi na Facebooku i što sve
   možete dobiti od kampanje.
-dateModified: '2017-03-04T19:47:56.811Z'
-datePublished: '2017-03-04T19:47:57.581Z'
+dateModified: '2017-03-04T22:46:45.463Z'
+datePublished: '2017-03-04T22:46:46.711Z'
 title: Kako rade oglasi na Facebooku
 author: []
 publisher: {}
