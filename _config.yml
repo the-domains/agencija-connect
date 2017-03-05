@@ -57,7 +57,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: grafički i web dizajn i internet oglašavanje
+title: Grafički i Web Dizajn - Internet Marketing
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
