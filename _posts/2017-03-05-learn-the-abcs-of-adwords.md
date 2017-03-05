@@ -21,8 +21,8 @@ keywords:
   - tutorials
   - rockstars
 description: >-
-  U samo nekoliko minuta saznakte kako funkcioniraju Google AdWords oglasi i
-  zaznajte je li to najbolje oglašavanje za vas.
+  U samo nekoliko minuta saznajte kako funkcioniraju Google AdWords oglasi i
+  saznajte je li to najbolje oglašavanje za vas.
 inLanguage: en
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=EYHegvg5kII&feature=applinks'
@@ -63,8 +63,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/EYHegvg5kII'
 title: Saznajte sve o Adwords oglašavanju
-datePublished: '2017-03-05T12:35:35.923Z'
-dateModified: '2017-03-05T12:35:35.452Z'
+datePublished: '2017-03-05T12:35:59.920Z'
+dateModified: '2017-03-05T12:35:59.338Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-05-learn-the-abcs-of-adwords.md
