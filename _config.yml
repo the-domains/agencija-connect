@@ -85,7 +85,7 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 coverPrefs:
   filter: false
-description: Kontaktirajte nas i rješit ćemo vaše probleme
+description: Kontaktirajte nas i riješit ćemo vaše probleme
 purpose:
   - type: contact
     url: 'tel:+38763313588'
