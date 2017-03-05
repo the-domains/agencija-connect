@@ -1,14 +1,7 @@
 ---
-author:
-  - name: AdWords Oglašavanje
-    url: 'https://www.youtube.com/user/learnwithgoogle'
-    avatar: {}
+author: []
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
+publisher: {}
 keywords:
   - adwords
   - duration
@@ -63,8 +56,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/EYHegvg5kII'
 title: Saznajte sve o Adwords oglašavanju
-datePublished: '2017-03-05T12:35:59.920Z'
-dateModified: '2017-03-05T12:35:59.338Z'
+datePublished: '2017-03-05T12:50:40.491Z'
+dateModified: '2017-03-05T12:50:39.877Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-05-learn-the-abcs-of-adwords.md
