@@ -1,6 +1,6 @@
 ---
 author:
-  - name: AdWords
+  - name: AdWords Oglašavanje
     url: 'https://www.youtube.com/user/learnwithgoogle'
     avatar: {}
 related: []
@@ -21,11 +21,8 @@ keywords:
   - tutorials
   - rockstars
 description: >-
-  Learn how online advertising can help attract new customers to your business.
-  This video describes how the opportunities available with organic and paid
-  search can get your website in front of interested people. Start off right
-  with Your Guide to AdWords: https://support.google.com/adwords/answer/6080949
-  Subscribe to AdWords Help on YouTube http://www.youtube.com/learnwithgoogle.
+  U samo nekoliko minuta saznakte kako funkcioniraju Google AdWords oglasi i
+  zaznajte je li to najbolje oglašavanje za vas.
 inLanguage: en
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=EYHegvg5kII&feature=applinks'
@@ -65,14 +62,14 @@ app_links:
     namespace: google
     type: ios
 isBasedOnUrl: 'https://youtu.be/EYHegvg5kII'
-title: Learn The ABCs of AdWords
-datePublished: '2017-03-05T12:32:16.285Z'
-dateModified: '2017-03-05T12:31:48.563Z'
-datePublishedOriginal: '2017-03-05T12:32:16.285Z'
+title: Saznajte sve o Adwords oglašavanju
+datePublished: '2017-03-05T12:35:35.923Z'
+dateModified: '2017-03-05T12:35:35.452Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-03-05-learn-the-abcs-of-adwords.md
+starred: false
+datePublishedOriginal: '2017-03-05T12:32:16.285Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
