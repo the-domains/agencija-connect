@@ -1,5 +1,6 @@
 ---
-author: []
+author:
+  - name: Pogledaj Video
 related: []
 publisher: {}
 keywords:
@@ -56,8 +57,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/EYHegvg5kII'
 title: Saznajte sve o Adwords oglašavanju
-datePublished: '2017-03-05T12:50:40.491Z'
-dateModified: '2017-03-05T12:50:39.877Z'
+datePublished: '2017-03-05T12:52:38.088Z'
+dateModified: '2017-03-05T12:52:37.214Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-05-learn-the-abcs-of-adwords.md
