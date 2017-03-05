@@ -21,7 +21,7 @@ analytics:
 author: {}
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e298f4a-23fd-424d-85f3-ff25c48fa4c8.png
-name: Agencija Connect
+name: Agencija Connect-Grafički i Web Dizajn-Internet oglašavanje
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -57,7 +57,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Agencija Connect
+title: grafički i web dizajn i internet oglašavanje
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
