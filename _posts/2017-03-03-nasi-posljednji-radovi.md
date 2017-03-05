@@ -1,11 +1,11 @@
 ---
 publisher: {}
-datePublished: '2017-03-05T16:55:24.152Z'
-dateModified: '2017-03-05T16:55:22.381Z'
+datePublished: '2017-03-05T16:57:20.103Z'
+dateModified: '2017-03-05T16:57:19.314Z'
 description: ''
 via: {}
 sourcePath: _posts/2017-03-03-nasi-posljednji-radovi.md
-title: ''
+title: 'Dizajn ambalaže, DugaTehna'
 hasPage: true
 inFeed: true
 author: []
