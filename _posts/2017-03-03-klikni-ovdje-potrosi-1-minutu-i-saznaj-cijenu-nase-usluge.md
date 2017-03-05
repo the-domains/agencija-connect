@@ -1,9 +1,8 @@
 ---
-publisher:
-  name: CJENIK
-datePublished: '2017-03-04T23:00:41.348Z'
-dateModified: '2017-03-04T23:00:40.154Z'
-description: 'Klikni ovdje, potroši 1 minutu i saznaj cijenu naše usluge!'
+publisher: {}
+datePublished: '2017-03-05T17:02:13.846Z'
+dateModified: '2017-03-05T17:02:05.525Z'
+description: 'Suzana Dodig, DugaTehna'
 via: {}
 sourcePath: _posts/2017-03-03-klikni-ovdje-potrosi-1-minutu-i-saznaj-cijenu-nase-usluge.md
 title: ''
@@ -16,4 +15,6 @@ datePublishedOriginal: '2017-03-03T12:52:02.160Z'
 _type: MediaObject
 
 ---
-> Klikni ovdje, potroši 1 minutu i saznaj cijenu naše usluge!
+> Ovo je agencija koja je unaprijedila naše proizvode.
+
+_Suzana Dodig, DugaTehna_
