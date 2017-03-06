@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Pratite naše Blogove.
-dateModified: '2017-03-06T11:15:32.031Z'
-datePublished: '2017-03-06T11:15:32.518Z'
+dateModified: '2017-03-06T11:15:52.634Z'
+datePublished: '2017-03-06T11:15:53.314Z'
 title: Connect Blog
 author: []
 publisher: {}
@@ -22,6 +22,8 @@ _type: Article
 Pratite naše Blogove.
 
 ---
+
+------------------------------------------------------------------------------------------------------------------------------------------
 
 # **[KAKO POSTATI STRUČNJAK ZA INTERNET MARKETING][0]**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/543cde11-aeb9-4b1d-8b46-6174b28bfe2e.jpg)
