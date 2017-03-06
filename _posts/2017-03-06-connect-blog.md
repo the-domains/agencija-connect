@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Pratite naše Blogove.
-dateModified: '2017-03-06T11:00:29.105Z'
-datePublished: '2017-03-06T11:00:29.694Z'
+dateModified: '2017-03-06T11:04:22.653Z'
+datePublished: '2017-03-06T11:04:23.206Z'
 title: Connect Blog
 author: []
 publisher: {}
