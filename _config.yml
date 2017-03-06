@@ -95,7 +95,7 @@ description: Kontaktirajte nas i unaprijediti ćemo vaše poslovanje
 purpose:
   - type: contact
     url: 'tel:+38763313588'
-    label: Call +38763313588
+    label: Pozovi +38763313588
   - type: contact
     url: 'mailto:info@connect.ba'
     label: E-mail
