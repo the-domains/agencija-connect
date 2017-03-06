@@ -1,8 +1,8 @@
 ---
 publisher:
   name: Rekli su o nama
-datePublished: '2017-03-05T17:04:16.369Z'
-dateModified: '2017-03-05T17:04:12.724Z'
+datePublished: '2017-03-06T10:05:19.915Z'
+dateModified: '2017-03-06T10:05:19.369Z'
 description: 'Suzana Dodig, DugaTehna'
 via: {}
 sourcePath: _posts/2017-03-03-klikni-ovdje-potrosi-1-minutu-i-saznaj-cijenu-nase-usluge.md
