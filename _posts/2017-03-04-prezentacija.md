@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Ponuditi ćemo nekoliko rješenja i zajedno s vama odabrati najbolje ili ako je
   potrebno neka i doraditi kako bi došli do konačnog cilja.
-dateModified: '2017-03-06T10:33:47.530Z'
-datePublished: '2017-03-06T10:33:48.482Z'
+dateModified: '2017-03-06T10:51:09.969Z'
+datePublished: '2017-03-06T10:51:10.621Z'
 title: 4. Prezentacija radova
 author: []
 publisher: {}
