@@ -32,6 +32,9 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
+  - name: Home
+    url: 'http://connect365.online/'
+    type: external
   - name: Što mi radimo
     url: 'http://connect365.online/sto-mi-radimo'
     type: external
@@ -48,9 +51,6 @@ navigation:
   - name: Blog
     id: b48abd71-4d46-444d-a617-61cf471970ef
     type: content
-  - name: Home
-    url: 'http://connect365.online/'
-    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3c549c9-bef1-4fa3-a40e-b47af7508b69.png
 collections:
