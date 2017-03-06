@@ -1,8 +1,8 @@
 ---
 publisher:
   name: ZANIMLJIVOSTI
-datePublished: '2017-03-04T23:00:41.369Z'
-dateModified: '2017-03-04T23:00:40.154Z'
+datePublished: '2017-03-06T10:33:48.316Z'
+dateModified: '2017-03-06T10:33:47.530Z'
 description: >-
   Pogledajte zanimljiv prikaz B2B oglašavanja na društvenim mrežama. Kako i na
   koji način doći do kupaca, brojke će vam sve reći.
