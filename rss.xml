@@ -4,9 +4,9 @@
         <description><![CDATA[Grafički i Web Dizajn - Internet Marketing]]></description>
         <link>http://connect365.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Mar 2017 10:03:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2017 10:05:50 GMT</lastBuildDate>
         <atom:link href="http://connect365.online/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Mar 2017 10:03:08 GMT</pubDate>
+        <pubDate>Mon, 06 Mar 2017 10:05:32 GMT</pubDate>
         <item>
             <title><![CDATA[Portfolio/Pogledajte naše radove]]></title>
             <description><![CDATA[<h1>Portfolio/Pogledajte naše radove</h1>,<p>Upoznajte se s našim uslugama koje će unaprijediti vaše poslovanje</p>,<p>Knjige grafičkih standarda, web stranice, katalozi, knjige, monografije, ambalaža, logotipi, memorandumi, marketinške kampanje…su sve ono što mi dizajniramo i radimo.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d8e210f-498c-4822-8a96-f900297f518c.jpg">]]></description>
@@ -50,6 +50,13 @@
             <pubDate>Sat, 04 Mar 2017 13:49:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Moj uređeni videozapis]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F8dlgHsLW0M8%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8dlgHsLW0M8&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F8dlgHsLW0M8%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/8dlgHsLW0M8</link>
+            <guid isPermaLink="false">febfc68d-f745-46d2-9634-a6f78081c776</guid>
+            <pubDate>Mon, 06 Mar 2017 10:03:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dizajn ambalaže, DugaTehna]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f24055f5-1f74-48b5-9dbd-e9e89f29d4d0.jpg" title="Dizajn ambala&zcaron;e, DugaTehna">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18b673f4-bcae-4c3d-859b-33f13f24f696.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/db1bd6d2-ebaf-4a2b-9f25-5f5167c807cf.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd78cf62-37aa-465d-ab06-8b337be6b4ce.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/84aa1a0a-d02f-4a85-a9d8-4e5bcd5b3cbe.jpg">]]></description>
             <link>http://connect365.online/nasi-posljednji-radovi/index.html</link>
@@ -69,13 +76,6 @@
             <link>http://connect365.online/kako-rade-oglasi-na-facebooku/index.html</link>
             <guid isPermaLink="false">6665ffde-a7c2-45be-b556-81e620ed4e7d</guid>
             <pubDate>Sat, 04 Mar 2017 19:41:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vizualni identitet/Knjiga grafičkih standarda]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c8e7c4f-efe6-495f-b788-3cb273281ef2.jpg">,<h1>Vizualni identitet/Knjiga grafičkih standarda</h1>,<p>Vizualni identitet je zbir svih aspekata koje poduzeće formira kao vlastito, prepoznatljivo i konzistentno, kroz sva sredstva komunikacije, promocijom i distribucijom materijala, podjednako unutar i izvan poduzeća.</p>]]></description>
-            <link>http://connect365.online/vizualni-identiteknjiga-grafickih-standarda/index.html</link>
-            <guid isPermaLink="false">d6c554ab-84fc-4079-8929-c6745f383a7a</guid>
-            <pubDate>Sat, 04 Mar 2017 19:16:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
