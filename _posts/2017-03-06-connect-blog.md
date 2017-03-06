@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Pratite naše Blogove.
-dateModified: '2017-03-06T11:11:55.861Z'
-datePublished: '2017-03-06T11:11:56.459Z'
+dateModified: '2017-03-06T11:15:27.642Z'
+datePublished: '2017-03-06T11:15:28.199Z'
 title: Connect Blog
 author: []
 publisher: {}
@@ -23,12 +23,14 @@ Pratite naše Blogove.
 
 ---
 
-## **[KAKO POSTATI STRUČNJAK ZA INTERNET MARKETING][0]**
+# **[KAKO POSTATI STRUČNJAK ZA INTERNET MARKETING][0]**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/543cde11-aeb9-4b1d-8b46-6174b28bfe2e.jpg)
 
 Najveći problem s kojim sam se suočavao sve ove godine, nije nedostatak literature, nego upravo suprotno. Višak od kojega ne znate kako i na koji način odabrati ono najbolje. Internet jeste donio pristup informacijama, ali jako puno je nekorisnih stvari i gubljnje vremena na čitanje besmislica više nitko ne može priuštiti.
 
 <button data-role="cta" style="">Vidi više</button>
+
+---------------------------------------------------------------------------------------------------------------------------------------
 
 ## **[KAKO PRODATI RUPU NA ZIDU?][1]**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc78fd2d-a2e1-4f35-ad5b-3126cfd12853.jpg)
@@ -37,7 +39,7 @@ Prijek par mjeseci, jedan od klijenata mi je poslao jedan tekst koji je bio ogla
 
 <button data-role="cta" style="">Vidi više</button>
 
-
+------------------------------------------------------------------------------------------------------------------------------------------
 
 [0]: http://connect.ba/kako-postati-strucnjak-za-internet-marketing/
 [1]: http://connect.ba/kako-prodati-rupu-na-zidu/
