@@ -4,9 +4,9 @@
         <description><![CDATA[Grafički i Web Dizajn - Internet Marketing]]></description>
         <link>http://connect365.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Mar 2017 11:00:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2017 11:01:25 GMT</lastBuildDate>
         <atom:link href="http://connect365.online/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Mar 2017 11:00:41 GMT</pubDate>
+        <pubDate>Mon, 06 Mar 2017 11:00:56 GMT</pubDate>
         <item>
             <title><![CDATA[Portfolio/Pogledajte naše radove]]></title>
             <description><![CDATA[<h1>Portfolio/Pogledajte naše radove</h1>,<p>Upoznajte se s našim uslugama koje će unaprijediti vaše poslovanje</p>,<p>Knjige grafičkih standarda, web stranice, katalozi, knjige, monografije, ambalaža, logotipi, memorandumi, marketinške kampanje…su sve ono što mi dizajniramo i radimo.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d8e210f-498c-4822-8a96-f900297f518c.jpg">]]></description>
@@ -20,6 +20,13 @@
             <link>https://youtu.be/VIp-hlVHZdY</link>
             <guid isPermaLink="false">0055e72f-628e-4367-b23d-5d6164aef530</guid>
             <pubDate>Mon, 06 Mar 2017 10:50:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Connect Blog]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a4711cd-cb95-4852-b1e7-7e1143c6eb69.jpg">,<h1>Connect Blog</h1>,<p>Pratite naše Blogove.</p>]]></description>
+            <link>http://connect365.online/connect-blog/index.html</link>
+            <guid isPermaLink="false">b48abd71-4d46-444d-a617-61cf471970ef</guid>
+            <pubDate>Mon, 06 Mar 2017 10:59:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kako prodati rupu na zidu?]]></title>
@@ -69,13 +76,6 @@
             <link>https://docs.google.com/forms/d/e/1FAIpQLScdOVsi3x4G0Lhj3_OM6jahpukJaGd1BQo7SdDcZ_cg58LITg/viewform</link>
             <guid isPermaLink="false">1072d936-35f2-427c-9ab0-216bf4826dd6</guid>
             <pubDate>Fri, 03 Mar 2017 12:52:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kako rade oglasi na Facebooku]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/59ccc5e6-0651-4bfd-839b-f58ab7b9c371.jpg">,<h1>Kako <em>rade</em> oglasi na Facebooku</h1>,<p>Radiju kao mediju je trebalo 40 godina da dosegne 50 mil. korisnika, Facebooku svega par godina. Saznajte kako funkcioniraju oglasi na Facebooku i što sve možete dobiti od kampanje.</p>]]></description>
-            <link>http://connect365.online/kako-rade-oglasi-na-facebooku/index.html</link>
-            <guid isPermaLink="false">6665ffde-a7c2-45be-b556-81e620ed4e7d</guid>
-            <pubDate>Sat, 04 Mar 2017 19:41:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
