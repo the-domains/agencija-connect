@@ -1,8 +1,8 @@
 ---
 publisher:
   name: manager.ba
-datePublished: '2017-03-06T10:51:10.519Z'
-dateModified: '2017-03-06T10:51:09.969Z'
+datePublished: '2017-03-06T11:00:29.896Z'
+dateModified: '2017-03-06T11:00:29.105Z'
 description: >-
   Kada smo odrastali sve ove naprave i izrazi nisu ni postojali. Danas su dio
   svakodnevnog rječnika osnovnoškolaca. Kada se pojavio internet (sjetite se
