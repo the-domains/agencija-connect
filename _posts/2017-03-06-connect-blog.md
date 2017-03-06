@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: Pratite naše Blogove.
-dateModified: '2017-03-06T10:59:43.031Z'
-datePublished: '2017-03-06T10:59:43.577Z'
+dateModified: '2017-03-06T11:00:29.105Z'
+datePublished: '2017-03-06T11:00:29.694Z'
 title: Connect Blog
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-03-06-connect-blog.md
 starred: false
 datePublishedOriginal: '2017-03-06T10:59:43.577Z'
-sourcePath: _posts/2017-03-06-connect-blog.md
 url: connect-blog/index.html
 _type: Article
 
