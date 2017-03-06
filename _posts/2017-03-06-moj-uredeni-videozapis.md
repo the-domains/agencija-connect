@@ -63,13 +63,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/8dlgHsLW0M8'
 title: Moj uređeni videozapis
-datePublished: '2017-03-06T10:03:07.448Z'
-dateModified: '2017-03-06T10:02:07.971Z'
-datePublishedOriginal: '2017-03-06T10:03:07.448Z'
+datePublished: '2017-03-06T10:05:20.109Z'
+dateModified: '2017-03-06T10:05:19.369Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-03-06-moj-uredeni-videozapis.md
+starred: false
+datePublishedOriginal: '2017-03-06T10:03:07.448Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
