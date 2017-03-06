@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Upoznavanje sa zahtjevima našega klijenta, s njegovim problemima, željama i
   mogućnostima.
-dateModified: '2017-03-06T10:51:09.969Z'
-datePublished: '2017-03-06T10:51:10.522Z'
+dateModified: '2017-03-06T11:00:29.105Z'
+datePublished: '2017-03-06T11:00:29.850Z'
 title: 1. Razgovor s klijentom
 author: []
 publisher: {}
