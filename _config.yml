@@ -96,6 +96,3 @@ purpose:
   - type: contact
     url: 'tel:+38763313588'
     label: Call +38763313588
-  - type: contact
-    url: 'mailto:info@connect.ba'
-    label: Contact me
