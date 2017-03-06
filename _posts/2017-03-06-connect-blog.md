@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Pratite naše Blogove.
-dateModified: '2017-03-06T11:07:38.404Z'
-datePublished: '2017-03-06T11:07:38.953Z'
+dateModified: '2017-03-06T11:10:20.328Z'
+datePublished: '2017-03-06T11:10:20.929Z'
 title: Connect Blog
 author: []
 publisher: {}
@@ -30,9 +30,15 @@ Pratite naše Blogove.
 Najveći problem s kojim sam se suočavao sve ove godine, nije nedostatak literature, nego upravo suprotno. Višak od kojega ne znate kako i na koji način odabrati ono najbolje. Internet jeste donio pristup informacijama, ali jako puno je nekorisnih stvari i gubljnje vremena na čitanje besmislica više nitko ne može priuštiti.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc78fd2d-a2e1-4f35-ad5b-3126cfd12853.jpg)
 
+<button data-role="cta" style="">Vidi više</button>
+
 ## **[KAKO PRODATI RUPU NA ZIDU?][1]**
 
 Prijek par mjeseci, jedan od klijenata mi je poslao jedan tekst koji je bio oglasnog karaktera. Bio je to relativno kratak sadržaj, možda na jedan A4 format bi sve stalo, kako bih dao svoje nepristrano mišljenje. Pročitao sam tekst i odgovorio mu kako je tekst odličan samo što je najviše i jedino o sebi pričao. O svojoj firmi, o proizvodu, o nagradama...
+
+<button data-role="cta" style="">Vidi više</button>
+
+
 
 [0]: http://connect.ba/kako-postati-strucnjak-za-internet-marketing/
 [1]: http://connect.ba/kako-prodati-rupu-na-zidu/
