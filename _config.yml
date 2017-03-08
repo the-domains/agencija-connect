@@ -23,7 +23,7 @@ analytics:
 author: {}
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e298f4a-23fd-424d-85f3-ff25c48fa4c8.png
-name: Agencija Connect-Grafički i Web Dizajn-Internet oglašavanje
+name: Connect365
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -38,10 +38,6 @@ navigation:
   - name: Portfolio
     id: 57e6afcb-e469-49c7-9d3e-8457e96f582c
     type: content
-  - name: Cjenik
-    url: >-
-      https://docs.google.com/forms/d/e/1FAIpQLScdOVsi3x4G0Lhj3_OM6jahpukJaGd1BQo7SdDcZ_cg58LITg/viewform
-    type: external
   - name: Blog
     url: 'http://blog.connect365.online/?cache=no'
     type: external
