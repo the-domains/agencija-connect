@@ -1,9 +1,12 @@
 ---
 inFeed: true
-description: Pratite naše Blogove.
-dateModified: '2017-03-08T11:53:01.537Z'
-datePublished: '2017-03-08T11:53:02.371Z'
-title: Connect Blog
+description: >-
+  Naši tekstovi vam služe da se bolje informirate i naučite kako bi na najbolji
+  način iskoristili mogućnosti grafičkog i web dizajna te internet oglašavanja.
+  Dva puta mjesečno objavljujemo tekstove nastale iz našeg iskustva i rada. 
+dateModified: '2017-03-08T12:40:22.151Z'
+datePublished: '2017-03-08T12:40:23.615Z'
+title: Čitajte naš Blog
 author: []
 publisher: {}
 via: {}
@@ -17,8 +20,12 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a4711cd-cb95-4852-b1e7-7e1143c6eb69.jpg)
 
-# Connect Blog
+# [Čitajte naš Blog][0]
 
-Pratite naše Blogove.
+Naši tekstovi vam služe da se bolje informirate i naučite kako bi na najbolji način iskoristili mogućnosti grafičkog i web dizajna te internet oglašavanja. Dva puta mjesečno objavljujemo tekstove nastale iz našeg iskustva i rada. 
 
 ---
+
+
+
+[0]: http://blog.connect365.online/?cache=no
