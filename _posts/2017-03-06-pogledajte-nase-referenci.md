@@ -1,6 +1,5 @@
 ---
-author:
-  - name: Connect Portfolio
+author: []
 related: []
 publisher: {}
 keywords:
@@ -48,8 +47,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/VIp-hlVHZdY'
 title: U samo 60 sekundi pogledajte naše radove
-datePublished: '2017-03-08T12:44:23.194Z'
-dateModified: '2017-03-08T12:44:22.551Z'
+datePublished: '2017-03-08T12:45:21.833Z'
+dateModified: '2017-03-08T12:45:20.989Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-06-pogledajte-nase-referenci.md
