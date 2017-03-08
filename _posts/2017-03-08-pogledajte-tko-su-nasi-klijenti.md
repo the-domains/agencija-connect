@@ -5,15 +5,15 @@ description: >-
   klijenti isti i uvijek svakome želimo dati sve najbolje što možemo. Nekada
   naravno kao i u svemu ne uspijemo u kreativnom procesu ali i tada znamo da smo
   dali sve od sebe. Pogledajte tko su naši klijenti.
-dateModified: '2017-03-08T13:25:44.669Z'
-datePublished: '2017-03-08T13:25:45.794Z'
+dateModified: '2017-03-08T13:25:47.508Z'
+datePublished: '2017-03-08T13:25:48.041Z'
 title: Pogledajte tko su naši klijenti
 author: []
 publisher: {}
 via: {}
 hasPage: true
 starred: false
-datePublishedOriginal: '2017-03-08T13:25:45.794Z'
+datePublishedOriginal: '2017-03-08T13:25:37.740Z'
 sourcePath: _posts/2017-03-08-pogledajte-tko-su-nasi-klijenti.md
 url: pogledajte-tko-su-nasi-klijenti/index.html
 _type: Article
