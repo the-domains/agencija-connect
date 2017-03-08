@@ -5,9 +5,9 @@ description: >-
   klijenti isti i uvijek svakome želimo dati sve najbolje što možemo. Nekada
   naravno kao i u svemu ne uspijemo u kreativnom procesu ali i tada znamo da smo
   dali sve od sebe. Pogledajte tko su naši klijenti.
-dateModified: '2017-03-08T13:33:18.008Z'
-datePublished: '2017-03-08T13:33:18.325Z'
-title: Pogledajte tko su naši klijenti
+dateModified: '2017-03-08T14:29:12.191Z'
+datePublished: '2017-03-08T14:29:12.896Z'
+title: Pogledajte za koga smo radili
 author: []
 publisher: {}
 via: {}
@@ -21,7 +21,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/153ffedb-7bd0-4c7e-8d77-938fb6e37c97.gif)
 
-# Pogledajte tko su naši klijenti
+# Pogledajte za koga smo radili
 
 Nikada nismo pravili razliku između _velikih i malih _klijenata. Svi su nam klijenti isti i uvijek svakome želimo dati sve najbolje što možemo. Nekada naravno kao i u svemu ne uspijemo u kreativnom procesu ali i tada znamo da smo dali sve od sebe. Pogledajte tko su naši klijenti.
 
