@@ -1,5 +1,6 @@
-layout_spectrum: 0.5152061641939206
 typography_spectrum: 0.7059836497876129
+content_rating:
+  adult: false
 color:
   lightness: 0.3526149909602164
   brandColors:
@@ -11,13 +12,10 @@ color:
   saturation: 0.31051479713096847
   brandStrength: 0.2543987935422781
   rhythmicContrast: 0.9882077083850999
-coverPrefs:
-  filter: false
-content_rating:
-  adult: false
 github: true
 opengraph:
   type: 'https://www.facebook.com/Connect.Agencija.za.trzisne.komunikacije/'
+layout_spectrum: 0.5152061641939206
 analytics:
   google: UA-19682937-18
 author: {}
@@ -35,7 +33,7 @@ navigation:
   - name: Home
     url: 'http://connect365.online/'
     type: external
-  - name: Što mi radimo
+  - name: radimo
     id: 57e6afcb-e469-49c7-9d3e-8457e96f582c
     type: content
   - name: Blog
@@ -161,6 +159,8 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
+coverPrefs:
+  filter: false
 description: Iskoristite naše znanje!
 purpose:
   - type: contact
