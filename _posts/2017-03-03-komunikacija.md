@@ -2,9 +2,9 @@
 inFeed: true
 description: >-
   Mi smo agencija koja se profesionalno bavi svojim poslom. Kreativni smo i
-  uvijek na raspolaganju našim klijentima kada nas zatrebaju. 
-dateModified: '2017-03-08T13:10:56.356Z'
-datePublished: '2017-03-08T13:10:57.933Z'
+  uvijek na raspolaganju našim klijentima kada nas zatrebaju.
+dateModified: '2017-03-08T13:12:54.732Z'
+datePublished: '2017-03-08T13:12:57.391Z'
 title: Tko smo mi i kako radimo
 author: []
 publisher: {}
@@ -17,10 +17,10 @@ url: 1-razgovor-s-klijentom/index.html
 _type: Article
 
 ---
-## Tko smo mi i kako radimo
+# Tko smo mi i kako radimo
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/767cd3d3-9bba-4313-94b9-c4277e87f642.jpg)
 
-Mi smo agencija koja se profesionalno bavi svojim poslom. Kreativni smo i uvijek na raspolaganju našim klijentima kada nas zatrebaju. 
+Mi smo agencija koja se profesionalno bavi svojim poslom. Kreativni smo i uvijek na raspolaganju našim klijentima kada nas zatrebaju.
 
 Dizajn je proces kojega se uvijek nastojimo držati jer jedino tako možemo doći do rješenja sa kojima će te biti zadovoljni.
 
