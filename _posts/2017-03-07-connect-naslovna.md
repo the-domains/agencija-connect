@@ -1,16 +1,16 @@
 ---
 publisher: {}
-dateModified: '2017-03-07T20:50:56.449Z'
+dateModified: '2017-03-08T13:33:18.008Z'
 via: {}
 isBasedOnUrl: 'https://youtu.be/XDA8xbh-ziE'
 title: Connect naslovna
 description: Uploaded by CONNECT/Tržišne komunikacije on 2017-03-07.
 inFeed: true
 author: []
-datePublished: '2017-03-07T20:51:07.858Z'
+datePublished: '2017-03-08T13:33:18.332Z'
+sourcePath: _posts/2017-03-07-connect-naslovna.md
 starred: true
 datePublishedOriginal: '2017-03-07T20:51:07.858Z'
-sourcePath: _posts/2017-03-07-connect-naslovna.md
 _type: MediaObject
 
 ---
