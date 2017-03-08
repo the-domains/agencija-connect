@@ -1,21 +1,23 @@
-typography_spectrum: 0.4259797487032627
-content_rating:
-  adult: false
+layout_spectrum: 0.5152061641939206
+typography_spectrum: 0.7059836497876129
 color:
-  lightness: 0.35592423477532836
+  lightness: 0.3526149909602164
   brandColors:
     - '#B9121B'
     - '#4C1B1B'
     - '#F6E497'
     - '#FCFAE1'
     - '#BD8D46'
-  saturation: 0.3177742220335963
-  brandStrength: 0.2511771415097473
-  rhythmicContrast: 0.989391898245523
+  saturation: 0.31051479713096847
+  brandStrength: 0.2543987935422781
+  rhythmicContrast: 0.9882077083850999
+coverPrefs:
+  filter: false
+content_rating:
+  adult: false
 github: true
 opengraph:
   type: 'https://www.facebook.com/Connect.Agencija.za.trzisne.komunikacije/'
-layout_spectrum: 0.5110512053579239
 analytics:
   google: UA-19682937-18
 author: {}
@@ -163,8 +165,6 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-coverPrefs:
-  filter: false
 description: Iskoristite naše znanje!
 purpose:
   - type: contact
