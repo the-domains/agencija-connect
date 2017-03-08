@@ -33,7 +33,7 @@ navigation:
   - name: Home
     url: 'http://connect365.online/'
     type: external
-  - name: radimo
+  - name: Što mi radimo
     id: 57e6afcb-e469-49c7-9d3e-8457e96f582c
     type: content
   - name: Blog
