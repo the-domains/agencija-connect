@@ -1,5 +1,6 @@
-layout_spectrum: 0.5110512053579239
 typography_spectrum: 0.4259797487032627
+content_rating:
+  adult: false
 color:
   lightness: 0.35592423477532836
   brandColors:
@@ -11,13 +12,10 @@ color:
   saturation: 0.3177742220335963
   brandStrength: 0.2511771415097473
   rhythmicContrast: 0.989391898245523
-coverPrefs:
-  filter: false
-content_rating:
-  adult: false
 github: true
 opengraph:
   type: 'https://www.facebook.com/Connect.Agencija.za.trzisne.komunikacije/'
+layout_spectrum: 0.5110512053579239
 analytics:
   google: UA-19682937-18
 author: {}
@@ -45,6 +43,9 @@ navigation:
   - name: Kontakt
     id: a50ff2fa-b95e-4687-b31c-a102b3e1e8e7
     type: content
+  - name: Blog
+    url: 'http://blog.connect365.online/?cache=no'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3c549c9-bef1-4fa3-a40e-b47af7508b69.png
 collections:
@@ -70,16 +71,8 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      author:
-        - name: CONNECT/Tržišne komunikacije
-          url: 'https://www.youtube.com/channel/UCt4YJ5o5gdsfSgRadQ_o05Q'
-          avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-        domain: youtu.be
+      datePublished: null
+      isBasedOnUrl: 'https://youtu.be/Ovj3gZ-DwcU'
       keywords:
         - naslovna
         - strana
@@ -91,8 +84,13 @@ content:
         - svet
         - mori
         - rouzin
-      description: Uploaded by CONNECT/Tržišne komunikacije on 2017-03-08.
-      inLanguage: en
+      related: []
+      author:
+        - name: CONNECT/Tržišne komunikacije
+          url: 'https://www.youtube.com/channel/UCt4YJ5o5gdsfSgRadQ_o05Q'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: Naslovna
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=Ovj3gZ-DwcU&feature=applinks'
@@ -131,10 +129,13 @@ content:
           package: '544007664'
           namespace: google
           type: ios
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://youtu.be/Ovj3gZ-DwcU'
-      title: Naslovna
-      datePublished: null
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: youtu.be
+      description: Uploaded by CONNECT/Tržišne komunikacije on 2017-03-08.
+      inLanguage: en
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -146,22 +147,24 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/860af84a-fefa-4c39-9e46-68414f9dce59.gif
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
+coverPrefs:
+  filter: false
 description: Iskoristite naše znanje!
 purpose:
   - type: contact
