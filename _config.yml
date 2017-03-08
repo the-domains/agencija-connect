@@ -35,9 +35,6 @@ navigation:
   - name: Home
     url: 'http://connect365.online/'
     type: external
-  - name: Što mi radimo
-    url: 'http://connect365.online/sto-mi-radimo'
-    type: external
   - name: Portfolio
     id: 57e6afcb-e469-49c7-9d3e-8457e96f582c
     type: content
