@@ -52,8 +52,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/VIp-hlVHZdY'
 title: Pogledajte naše referenci
-datePublished: '2017-03-06T21:04:15.035Z'
-dateModified: '2017-03-06T15:06:08.228Z'
+datePublished: '2017-03-08T09:47:32.804Z'
+dateModified: '2017-03-08T09:47:32.604Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-06-pogledajte-nase-referenci.md
