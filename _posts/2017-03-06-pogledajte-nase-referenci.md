@@ -1,11 +1,8 @@
 ---
-author: []
+author:
+  - name: Connect Portfolio
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
+publisher: {}
 keywords:
   - uređivač usluge youtube
 description: >-
@@ -51,8 +48,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/VIp-hlVHZdY'
 title: U samo 60 sekundi pogledajte naše radove
-datePublished: '2017-03-08T12:41:48.452Z'
-dateModified: '2017-03-08T12:41:47.246Z'
+datePublished: '2017-03-08T12:44:23.194Z'
+dateModified: '2017-03-08T12:44:22.551Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-06-pogledajte-nase-referenci.md
