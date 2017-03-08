@@ -65,7 +65,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Grafički i Web Dizajn - Internet Marketing
+title: 'Graphic,Web, eMarketing...'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
