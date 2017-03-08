@@ -66,31 +66,7 @@ collections:
       format: rss
       number: 10
 title: Grafički i Web Dizajn - Internet Marketing
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c94bbf9-9687-4ff2-8afc-f9bf39fd8b47.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c94bbf9-9687-4ff2-8afc-f9bf39fd8b47.jpg
-    metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
-      publisher:
-        favicon: null
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: Kontaktirajte nas i unaprijediti ćemo vaše poslovanje
 purpose:
   - type: contact
