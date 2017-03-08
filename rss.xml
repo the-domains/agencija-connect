@@ -4,9 +4,9 @@
         <description><![CDATA[Grafički i Web Dizajn, Internet oglašavanje]]></description>
         <link>http://connect365.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Mar 2017 12:45:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2017 13:11:01 GMT</lastBuildDate>
         <atom:link href="http://connect365.online/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Mar 2017 12:45:23 GMT</pubDate>
+        <pubDate>Wed, 08 Mar 2017 13:10:59 GMT</pubDate>
         <item>
             <title><![CDATA[Agencija Connect]]></title>
             <description><![CDATA[<h1>Agencija Connect</h1>,<p>Upoznajte se s našim uslugama koje će unaprijediti vaše poslovanje!</p>,<p>Knjige Grafičkih Standarda, Web Stranice, Katalozi, Knjige, Monografije, Ambalaža, Etikete, Logotipi, Plakati, Bilboardi, Marketinške Kampanje…su sve ono što mi dizajniramo i radimo.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d8e210f-498c-4822-8a96-f900297f518c.jpg">]]></description>
@@ -69,6 +69,13 @@
             <link>https://docs.google.com/forms/d/e/1FAIpQLScdOVsi3x4G0Lhj3_OM6jahpukJaGd1BQo7SdDcZ_cg58LITg/viewform</link>
             <guid isPermaLink="false">1072d936-35f2-427c-9ab0-216bf4826dd6</guid>
             <pubDate>Fri, 03 Mar 2017 12:52:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tko smo mi i kako radimo]]></title>
+            <description><![CDATA[<h2>Tko smo mi i kako radimo</h2>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/767cd3d3-9bba-4313-94b9-c4277e87f642.jpg">,<p>Mi smo agencija koja se profesionalno bavi svojim poslom. Kreativni smo i uvijek na raspolaganju našim klijentima kada nas zatrebaju.&nbsp;</p>,<p>Dizajn je proces kojega se uvijek nastojimo držati jer jedino tako možemo doći do rješenja sa kojima će te biti zadovoljni.</p>]]></description>
+            <link>http://connect365.online/1-razgovor-s-klijentom/index.html</link>
+            <guid isPermaLink="false">9b4a874a-3197-4603-969f-a96acc29788e</guid>
+            <pubDate>Fri, 03 Mar 2017 13:17:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
