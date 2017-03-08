@@ -1,8 +1,5 @@
 ---
-author:
-  - name: CONNECT/Tržišne komunikacije
-    url: 'https://www.youtube.com/channel/UCt4YJ5o5gdsfSgRadQ_o05Q'
-    avatar: {}
+author: []
 related: []
 publisher:
   url: 'https://www.youtube.com/'
@@ -54,8 +51,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/VIp-hlVHZdY'
 title: U samo 60 sekundi pogledajte naše radove
-datePublished: '2017-03-08T11:46:28.150Z'
-dateModified: '2017-03-08T11:46:27.503Z'
+datePublished: '2017-03-08T12:41:48.452Z'
+dateModified: '2017-03-08T12:41:47.246Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-06-pogledajte-nase-referenci.md
