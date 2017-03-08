@@ -54,8 +54,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/VIp-hlVHZdY'
 title: U samo 60 sekundi pogledajte naše radove
-datePublished: '2017-03-08T11:46:15.812Z'
-dateModified: '2017-03-08T11:46:15.117Z'
+datePublished: '2017-03-08T11:46:28.150Z'
+dateModified: '2017-03-08T11:46:27.503Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-06-pogledajte-nase-referenci.md
