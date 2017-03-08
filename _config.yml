@@ -41,9 +41,6 @@ navigation:
   - name: Portfolio
     id: 57e6afcb-e469-49c7-9d3e-8457e96f582c
     type: content
-  - name: Blog
-    id: b48abd71-4d46-444d-a617-61cf471970ef
-    type: content
   - name: Cjenik
     url: >-
       https://docs.google.com/forms/d/e/1FAIpQLScdOVsi3x4G0Lhj3_OM6jahpukJaGd1BQo7SdDcZ_cg58LITg/viewform
