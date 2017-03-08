@@ -1,16 +1,16 @@
-layout_spectrum: 0.11768000968630508
-typography_spectrum: 0.5478529051440483
+layout_spectrum: 0.5110512053579239
+typography_spectrum: 0.4259797487032627
 color:
-  lightness: 0.2860114319468526
+  lightness: 0.35592423477532836
   brandColors:
     - '#B9121B'
     - '#4C1B1B'
     - '#F6E497'
     - '#FCFAE1'
     - '#BD8D46'
-  saturation: 0.9659071933242058
-  brandStrength: 0.504284656655025
-  rhythmicContrast: 0.3730882966146795
+  saturation: 0.3177742220335963
+  brandStrength: 0.2511771415097473
+  rhythmicContrast: 0.989391898245523
 coverPrefs:
   filter: false
 content_rating:
@@ -161,7 +161,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
