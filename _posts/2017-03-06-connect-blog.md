@@ -3,9 +3,9 @@ inFeed: true
 description: >-
   Naši tekstovi vam služe da se bolje informirate i naučite kako bi na najbolji
   način iskoristili mogućnosti grafičkog i web dizajna te internet oglašavanja.
-  Dva puta mjesečno objavljujemo tekstove nastale iz našeg iskustva i rada. 
-dateModified: '2017-03-08T12:40:22.151Z'
-datePublished: '2017-03-08T12:40:23.615Z'
+  Dva puta mjesečno objavljujemo tekstove nastale iz našeg iskustva i rada.
+dateModified: '2017-03-09T09:20:28.243Z'
+datePublished: '2017-03-09T09:20:28.850Z'
 title: Čitajte naš Blog
 author: []
 publisher: {}
@@ -22,10 +22,6 @@ _type: Article
 
 # [Čitajte naš Blog][0]
 
-Naši tekstovi vam služe da se bolje informirate i naučite kako bi na najbolji način iskoristili mogućnosti grafičkog i web dizajna te internet oglašavanja. Dva puta mjesečno objavljujemo tekstove nastale iz našeg iskustva i rada. 
-
----
-
-
+Naši tekstovi vam služe da se bolje informirate i naučite kako bi na najbolji način iskoristili mogućnosti grafičkog i web dizajna te internet oglašavanja. Dva puta mjesečno objavljujemo tekstove nastale iz našeg iskustva i rada.
 
 [0]: http://blog.connect365.online/?cache=no
