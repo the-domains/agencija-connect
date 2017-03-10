@@ -21,7 +21,7 @@ analytics:
 author: {}
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e298f4a-23fd-424d-85f3-ff25c48fa4c8.png
-name: Connect365
+name: Agencija Connect
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -172,6 +172,7 @@ purpose:
   - type: contact
     url: 'tel:+38763313588'
     label: Pozovi +38763313588
-  - type: contact
-    url: 'mailto:info@connect.ba'
-    label: Pošalji upit
+  - type: external
+    url: >-
+      https://docs.google.com/forms/d/e/1FAIpQLScdOVsi3x4G0Lhj3_OM6jahpukJaGd1BQo7SdDcZ_cg58LITg/viewform
+    label: Zatraži ponudu
