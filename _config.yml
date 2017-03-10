@@ -36,11 +36,11 @@ navigation:
   - name: Usluge
     url: 'http://usluge.connect365.online/?cache=no'
     type: external
-  - name: Blog
-    url: 'http://blog.connect365.online/?cache=no'
-    type: external
   - name: Portfolio
     url: 'http://portfolio.connect365.online/?cache=no'
+    type: external
+  - name: Blog
+    url: 'http://blog.connect365.online/?cache=no'
     type: external
   - name: Kontakt
     id: a50ff2fa-b95e-4687-b31c-a102b3e1e8e7
