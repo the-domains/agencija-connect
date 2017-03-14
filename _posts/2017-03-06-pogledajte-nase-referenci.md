@@ -36,7 +36,7 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-datePublished: '2017-03-08T19:07:37.897Z'
+datePublished: '2017-03-14T19:12:54.294Z'
 description: >-
   Pogledajte neke od naših radova u videu koji traje 60 sekundi. Logotipi,
   ambalaža, naljepnice i još mnogo toga.
@@ -46,8 +46,9 @@ keywords:
   - uređivač usluge youtube
 isBasedOnUrl: 'https://youtu.be/VIp-hlVHZdY'
 inFeed: true
-publisher: {}
-dateModified: '2017-03-08T19:07:21.798Z'
+publisher:
+  name: Reference
+dateModified: '2017-03-14T19:12:51.469Z'
 related: []
 sourcePath: _posts/2017-03-06-pogledajte-nase-referenci.md
 title: Pogledajte ovaj kratki video
