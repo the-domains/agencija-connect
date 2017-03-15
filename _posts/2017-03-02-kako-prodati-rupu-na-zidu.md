@@ -1,8 +1,8 @@
 ---
 publisher:
   name: CONNECT BLOG
-datePublished: '2017-03-15T11:20:52.665Z'
-dateModified: '2017-03-15T11:20:51.349Z'
+datePublished: '2017-03-15T11:21:11.821Z'
+dateModified: '2017-03-15T11:21:10.592Z'
 description: >-
   Ako vam je CIJENA proizvoda jedini argument koji nudite kupcima, onda jao si
   ga vama. Saznajte šta to još može koristiti vašim kupcima.
