@@ -6,8 +6,8 @@ description: >-
   način odabrati ono najbolje. Internet jeste donio pristup informacijama, ali
   jako puno je nekorisnih stvari i gubljenje vremena na čitanje besmislica više
   nitko ne može priuštiti.
-dateModified: '2017-03-16T09:12:18.515Z'
-datePublished: '2017-03-16T09:12:18.773Z'
+dateModified: '2017-03-16T09:15:18.711Z'
+datePublished: '2017-03-16T09:15:19.481Z'
 title: Kako Postati Stručnjak Za Internet Marketing
 author: []
 publisher:
@@ -15,8 +15,8 @@ publisher:
 via: {}
 sourcePath: _posts/2017-03-08-formalno-obrazovanje.md
 hasPage: true
-datePublishedOriginal: '2017-03-16T09:12:18.773Z'
 starred: false
+datePublishedOriginal: '2017-03-16T09:12:18.773Z'
 url: kako-postati-strucnjak-za-internet-marketing/index.html
 _type: Article
 
