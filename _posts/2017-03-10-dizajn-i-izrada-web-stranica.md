@@ -5,8 +5,8 @@ description: >-
   prezentacija mogućim klijentima i važno je da oni imaju dobru percepciju o
   vama. Možete imati vrhunsku firmu, proizvod, uslugu…ali moj prvi dojam o vama
   je web stranica.
-dateModified: '2017-03-16T09:15:18.711Z'
-datePublished: '2017-03-16T09:15:19.568Z'
+dateModified: '2017-03-16T09:27:06.106Z'
+datePublished: '2017-03-16T09:27:07.223Z'
 title: Dizajn i Izrada Web Stranica
 author: []
 publisher: {}
