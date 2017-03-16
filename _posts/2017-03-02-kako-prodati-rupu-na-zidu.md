@@ -1,8 +1,8 @@
 ---
 publisher:
   name: CONNECT BLOG
-datePublished: '2017-03-15T11:21:11.821Z'
-dateModified: '2017-03-15T11:21:10.592Z'
+datePublished: '2017-03-16T09:09:33.500Z'
+dateModified: '2017-03-16T09:09:33.334Z'
 description: >-
   Ako vam je CIJENA proizvoda jedini argument koji nudite kupcima, onda jao si
   ga vama. Saznajte šta to još može koristiti vašim kupcima.
@@ -12,8 +12,8 @@ title: Kako prodati rupu na zidu?
 hasPage: true
 inFeed: true
 author: []
+datePublishedOriginal: '2017-03-16T09:09:33.500Z'
 starred: false
-datePublishedOriginal: '2017-03-06T21:04:20.110Z'
 url: kako-prodati-rupu-na-zidu/index.html
 _type: Article
 
