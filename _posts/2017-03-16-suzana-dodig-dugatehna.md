@@ -1,11 +1,12 @@
 ---
 inFeed: true
 description: 'Suzana Dodig, DugaTehna'
-dateModified: '2017-03-16T15:17:43.086Z'
-datePublished: '2017-03-16T15:17:43.855Z'
+dateModified: '2017-03-16T15:18:34.132Z'
+datePublished: '2017-03-16T15:18:34.929Z'
 title: ''
 author: []
-publisher: {}
+publisher:
+  name: Rekli su o nama
 via: {}
 isBasedOnUrl: 'http://www.dugatehna.ba/'
 sourcePath: _posts/2017-03-16-suzana-dodig-dugatehna.md
