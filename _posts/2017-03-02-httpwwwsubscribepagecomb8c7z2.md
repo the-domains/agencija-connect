@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-03-16T09:27:07.058Z'
-dateModified: '2017-03-16T09:27:06.106Z'
+datePublished: '2017-03-16T15:49:30.239Z'
+dateModified: '2017-03-16T15:49:29.097Z'
 via: {}
 description: ''
 title: ''
@@ -17,6 +17,6 @@ _type: Blurb
 
 > Pretplatite se na Newsletter i dva puta mjesečno dobijajte korisne savjete o internet marketingu, grafičkom dizajnu....i mnogo toga.
 
-[Newsletter][0]
+[Pretplati se][0]
 
 [0]: http://www.subscribepage.com/b8c7z2
