@@ -36,6 +36,9 @@ navigation:
   - name: Usluge
     url: 'http://usluge.connect365.online/?cache=no'
     type: external
+  - name: Reference
+    id: 7207c891-cf7d-4296-804e-94388b09d3cf
+    type: content
   - name: Blog
     url: 'http://blog.connect365.online/?cache=no'
     type: external
@@ -45,9 +48,6 @@ navigation:
   - name: Zanimljivosti
     url: 'http://zanimljivosti.connect365.online/?cache=no'
     type: external
-  - name: Reference
-    id: 7207c891-cf7d-4296-804e-94388b09d3cf
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3c549c9-bef1-4fa3-a40e-b47af7508b69.png
 collections:
