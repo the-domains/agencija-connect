@@ -4,8 +4,8 @@ description: >-
   Adwords je Googlova platforma za oglašavanje, koja je na jedan dobar i pošten
   način omogućila Internet oglašavanje i malim firmama. Bez ikavih problema
   možemo voditi Internet marketing za vas precizno ciljajući vašu publiku.
-dateModified: '2017-03-16T12:26:48.968Z'
-datePublished: '2017-03-16T12:26:49.279Z'
+dateModified: '2017-03-16T15:37:23.650Z'
+datePublished: '2017-03-16T15:37:24.289Z'
 title: Adwords Oglašavanje
 author: []
 publisher: {}
