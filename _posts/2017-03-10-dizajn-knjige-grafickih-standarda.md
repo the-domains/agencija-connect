@@ -5,8 +5,8 @@ description: >-
   različit. Vizitke vam dizajniraju kako tko stigne a vaši djelatnici imaju ih
   sve različite. Vrijeme je da to sve standardizirate i definirate u Knjizi
   Grafičkih Standarda.
-dateModified: '2017-03-16T12:46:28.365Z'
-datePublished: '2017-03-16T12:46:29.017Z'
+dateModified: '2017-03-17T09:29:32.631Z'
+datePublished: '2017-03-17T09:29:33.765Z'
 title: Dizajn Knjige Grafičkih Standarda
 author: []
 publisher: {}
