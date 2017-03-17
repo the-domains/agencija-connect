@@ -5,8 +5,8 @@ description: >-
   klijenta. Osmišljavanje logotipa, promotivnih materijala, dizajn web stranice
   (www.vitalis.ba) i osmišljavanje cijele oglašavačke strategije na društvenim
   mrežama bio je zadatak koji smo uspješno obavili.
-dateModified: '2017-03-16T15:37:23.650Z'
-datePublished: '2017-03-16T15:37:24.312Z'
+dateModified: '2017-03-17T09:29:02.538Z'
+datePublished: '2017-03-17T09:29:02.844Z'
 title: 'Vizaulni Identitet, Izrada Web Stranice i Internet Oglašavanje'
 author: []
 publisher: {}
