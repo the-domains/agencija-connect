@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-16T09:30:51.483Z'
+datePublished: '2017-03-17T09:29:33.752Z'
 description: >-
   Naši tekstovi vam služe da se bolje informirate i naučite kako bi na najbolji
   način iskoristili mogućnosti grafičkog i web dizajna te internet oglašavanja.
@@ -7,7 +7,7 @@ description: >-
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-03-16T09:30:51.232Z'
+dateModified: '2017-03-17T09:29:32.631Z'
 sourcePath: _posts/2017-03-06-connect-blog.md
 title: Čitajte naš Blog
 hasPage: true
