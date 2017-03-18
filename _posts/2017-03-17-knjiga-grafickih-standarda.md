@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-03-18T10:58:45.425Z'
-dateModified: '2017-03-18T10:58:45.248Z'
+datePublished: '2017-03-18T11:02:51.056Z'
+dateModified: '2017-03-18T11:02:50.817Z'
 description: Knjiga grafičkih standarda
 via: {}
 sourcePath: _posts/2017-03-17-knjiga-grafickih-standarda.md
@@ -10,8 +10,8 @@ isBasedOnUrl: >-
 title: ''
 inFeed: true
 author: []
+datePublishedOriginal: '2017-03-18T11:02:51.056Z'
 starred: true
-datePublishedOriginal: '2017-03-17T20:03:30.536Z'
 _type: MediaObject
 
 ---
