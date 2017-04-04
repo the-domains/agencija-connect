@@ -4,8 +4,8 @@ description: >-
   Potreba za fotografijom kao sredstvom komunikacije nikada nije prestala a niti
   će. Oglasi, bilboardi, reklame, baneri…komuniciraju fotografijom. I nije džaba
   ona izreka da jedna slika govori 1000 riječi.
-dateModified: '2017-04-04T13:24:06.463Z'
-datePublished: '2017-04-04T13:24:06.949Z'
+dateModified: '2017-04-04T13:24:37.875Z'
+datePublished: '2017-04-04T13:24:39.960Z'
 title: Koliko je Važna Reklamna Fotografija
 author: []
 publisher:
@@ -13,8 +13,8 @@ publisher:
 via: {}
 hasPage: true
 sourcePath: _posts/2017-03-15-koliko-je-vazna-reklamna-fotografija.md
-datePublishedOriginal: '2017-04-04T13:24:06.949Z'
 starred: false
+datePublishedOriginal: '2017-04-04T13:24:06.949Z'
 url: koliko-je-vazna-reklamna-fotografija/index.html
 _type: Article
 
