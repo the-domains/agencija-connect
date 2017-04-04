@@ -4,8 +4,8 @@ description: >-
   Nije lako dizajnirati i odabrati logotip koji će vas predstavljati slijedećih
   100 godina :). Kako vrijednost vaše firme preslikati na jedan simbol, koji će
   o vama reći mnogo toga. Dizajnirat
-dateModified: '2017-03-17T09:29:32.631Z'
-datePublished: '2017-03-17T09:29:33.827Z'
+dateModified: '2017-04-04T13:24:37.875Z'
+datePublished: '2017-04-04T13:24:39.954Z'
 title: Dizajn logotipa
 author: []
 publisher: {}
