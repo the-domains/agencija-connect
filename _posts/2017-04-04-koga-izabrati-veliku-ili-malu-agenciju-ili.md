@@ -5,8 +5,8 @@ description: >-
   Grafički ili Web dizajn ili za Internet oglašavanje. Jasno mi je kako mnogi
   pokušavaju sa što manje ulaganja doći do odličnih rješenja. I to je sasvim
   normalno. Ali...
-dateModified: '2017-04-04T12:31:19.485Z'
-datePublished: '2017-04-04T12:31:20.851Z'
+dateModified: '2017-04-04T13:24:37.875Z'
+datePublished: '2017-04-04T13:24:39.961Z'
 title: 'Koga izabrati, Veliku ili Malu Agenciju ili…?'
 author: []
 publisher:
