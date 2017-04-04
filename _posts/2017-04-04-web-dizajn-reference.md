@@ -1,11 +1,8 @@
 ---
 inFeed: true
-description: >-
-  Novi svijet /Agencija Promo / PSolution / Cromwell Consalting / Rad-Dar /
-  SanMarino Glass / ThermoPoint / Ministarstvo turizma / Vitalis / AluPoint /
-  CroStudio…
-dateModified: '2017-04-04T13:52:26.042Z'
-datePublished: '2017-04-04T13:52:26.220Z'
+description: Pogledajte samo neke od naših web stranica koje smo radili.
+dateModified: '2017-04-04T14:09:47.175Z'
+datePublished: '2017-04-04T14:09:47.737Z'
 title: Web dizajn - reference
 author: []
 publisher: {}
@@ -19,6 +16,8 @@ _type: Blurb
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/73b20ea8-baf5-43db-8165-ac38edf2961b.jpg)
 
 # Web dizajn - reference
+
+Pogledajte samo neke od naših web stranica koje smo radili.
 
 [Novi svijet][0] /[Agencija Promo][1] / [PSolution][2] / [Cromwell Consalting][3] / [Rad-Dar][4] / [SanMarino Glass ][5]/ [ThermoPoint][6] / [Ministarstvo turizma][7] / [Vitalis][8] / [AluPoint ][9]/ [CroStudio][10]...
 
