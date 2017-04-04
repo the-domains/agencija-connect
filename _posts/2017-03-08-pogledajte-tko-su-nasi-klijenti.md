@@ -5,8 +5,8 @@ description: >-
   klijenti isti i uvijek svakome želimo dati sve najbolje što možemo. Nekada
   naravno kao i u svemu ne uspijemo u kreativnom procesu ali i tada znamo da smo
   dali sve od sebe. Pogledajte tko su naši klijenti.
-dateModified: '2017-04-04T12:37:22.325Z'
-datePublished: '2017-04-04T12:37:22.930Z'
+dateModified: '2017-04-04T13:24:37.875Z'
+datePublished: '2017-04-04T13:24:39.897Z'
 title: Pogledajte za koga smo sve radili
 author: []
 publisher: {}
