@@ -4,15 +4,15 @@ description: >-
   Novi svijet /Agencija Promo / PSolution / Cromwell Consalting / Rad-Dar /
   SanMarino Glass / ThermoPoint / Ministarstvo turizma / Vitalis / AluPoint /
   CroStudio…
-dateModified: '2017-04-04T13:51:56.834Z'
-datePublished: '2017-04-04T13:51:57.708Z'
+dateModified: '2017-04-04T13:52:26.042Z'
+datePublished: '2017-04-04T13:52:26.220Z'
 title: Web dizajn - reference
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-04-04-web-dizajn-reference.md
 starred: false
 datePublishedOriginal: '2017-04-04T13:51:57.708Z'
-sourcePath: _posts/2017-04-04-web-dizajn-reference.md
 _type: Blurb
 
 ---
