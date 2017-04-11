@@ -5,8 +5,8 @@ description: >-
   100 godina :). Kako vrijednost vaše firme preslikati na jedan simbol, koji će
   o vama reći mnogo toga. Pogledajte neke od naših najabolje dizajniranih
   logotipa.
-dateModified: '2017-04-11T10:38:15.141Z'
-datePublished: '2017-04-11T10:38:16.994Z'
+dateModified: '2017-04-11T10:38:19.034Z'
+datePublished: '2017-04-11T10:38:20.109Z'
 title: 'Dizajn logotipa '
 author: []
 publisher: {}
