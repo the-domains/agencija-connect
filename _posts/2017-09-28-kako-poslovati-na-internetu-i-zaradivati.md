@@ -1,0 +1,30 @@
+---
+inFeed: true
+description: >-
+  Izrada Web shopa nije samo stvar tehničke izrade web stranice. Pravi zadatak
+  je kako poslovanje iz fizičkog okružja prenijeti na Internet. Izrada stranice
+  sama po sebi ništa ne znači. U ovoj knjizi navest ćemo načine kako da
+  besplatno pokrenete web stranicu za prodaju. Vidjet ćete da i u tom slučaju
+  ima jako puno stvari koje trebate riješiti prije samog pokretanja poslovanja
+  na Internetu.
+dateModified: '2017-09-28T14:03:42.507Z'
+datePublished: '2017-09-28T14:03:43.271Z'
+title: Kako poslovati na Internetu i zarađivati
+author: []
+publisher: {}
+via: {}
+starred: false
+datePublishedOriginal: '2017-09-28T14:03:43.271Z'
+sourcePath: _posts/2017-09-28-kako-poslovati-na-internetu-i-zaradivati.md
+_type: Blurb
+
+---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c66064fa-c9f9-4e54-8a9f-0c824f353cbb.png)
+
+### Besplatna knjiga
+
+# Kako poslovati na Internetu i zarađivati
+
+Izrada Web shopa nije samo stvar tehničke izrade web stranice. Pravi zadatak je kako poslovanje iz fizičkog okružja prenijeti na Internet. Izrada stranice sama po sebi ništa ne znači. U ovoj knjizi navest ćemo načine kako da besplatno pokrenete web stranicu za prodaju. Vidjet ćete da i u tom slučaju ima jako puno stvari koje trebate riješiti prije samog pokretanja poslovanja na Internetu.
+
+<button data-role="cta" style="">Preuzmi knjigu</button>
