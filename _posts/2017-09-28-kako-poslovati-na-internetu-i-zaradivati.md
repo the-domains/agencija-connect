@@ -7,8 +7,8 @@ description: >-
   besplatno pokrenete web stranicu za prodaju. Vidjet ćete da i u tom slučaju
   ima jako puno stvari koje trebate riješiti prije samog pokretanja poslovanja
   na Internetu.
-dateModified: '2017-09-28T14:19:01.145Z'
-datePublished: '2017-09-28T14:19:02.291Z'
+dateModified: '2017-09-28T14:34:21.531Z'
+datePublished: '2017-09-28T14:34:22.848Z'
 title: Kako poslovati na Internetu i zarađivati
 author: []
 publisher: {}
