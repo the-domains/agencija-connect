@@ -18,7 +18,7 @@ opengraph:
   appId: UA-117351133-1
 layout_spectrum: 0.17591452526260573
 analytics:
-  google: ''
+  google: UA-117351133-1
 author: {}
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e298f4a-23fd-424d-85f3-ff25c48fa4c8.png
